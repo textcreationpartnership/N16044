@@ -118,7 +118,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:020534_0001_0FAFE103B9D97E78" rendition="simple:additions"/>
+            <pb facs="unknown:020534_0001_0FAFE103B9D97E78"
+                rendition="simple:additions"/>
             <p>SACRED DRAMAS, CHIEFLY INTENDED FOR YOUNG PERSONS: THE SUBJECTS TAKEN FROM THE BIBLE.</p>
             <p>To which are added: REFLECTIONS OF KING HEZEKIAH, AND SENSIBILITY, A POEM. BY HANNAH MORE.</p>
             <q>
@@ -128,7 +129,7 @@
             <p>PHILADELPHIA: PRINTED FOR THOMAS DOBSON, IN SECOND-STREET, BETWEEN MARKET AND CHESNUT-STREET. M, DCC, LXXXVII.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:020534_0002_0FAFE1047AD3C0E0"/>
+            <pb facs="unknown:020534_0002_0FAFE1047AD3C0E0"/>
             <p>TO HER GRACE THE DUCHESS OF BEAUFORT; THESE SACRED DRAMAS ARE, WITH THE MOST PERFECT RESPECT, INSCRIBED:</p>
             <p>AS, AMONG THE MANY AMIABLE AND DISTINGUISHED QUALITIES WHICH ADORN HER MIND, AND ADD LUSTRE TO HER RANK, HER EXCELLENCE IN THE MATERNAL CHARACTIER GIVES A PECULIAR PROPRIETY TO HER PROTECTION OF THIS LITTLE WORK; WRITTEN WITH AN HUMBLE WISH TO PROMOTE THE LOVE OF PIETY AND VIRTUE IN YOUNG PERSONS;</p>
             <closer>
@@ -137,27 +138,27 @@
          </div>
          <div type="note">
             <pb n="v"
-                facs="tcp:020534_0003_0FAFE1053949F078"
+                facs="unknown:020534_0003_0FAFE1053949F078"
                 rendition="simple:additions"/>
             <head>ADVERTISEMENT.</head>
             <p>I AM as ready as the moſt rigid Critic, to confeſs, that nothing can be more ſimple and inartificial than the plans of the following Dramas. In the conſtruction of them, I have ſeldom ventured to introduce any perſons <note n="*" place="bottom">Never, indeed, except in <hi>DANIEL,</hi> and that of neceſ<g ref="char:EOLhyphen"/>ſity; as the Bible furniſhes no more than two perſons, Da<g ref="char:EOLhyphen"/>niel and Darius; and theſe were not ſufficient to carry on the buſineſs of the Piece.</note> of my own creation: ſtill leſs did I imagine myſelf at liberty to invent circumſtances. I reflected, with awe, <hi>that the place where<g ref="char:EOLhyphen"/>
                   <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap> I ſtood was holy ground.</hi> All the latitude I permitted my<g ref="char:EOLhyphen"/>ſelf, was, to make ſuch perſons as I ſelected, act under ſuch circumſtances as I found; and expreſs ſuch ſentiments as, in my humble judgment, appeared not unnatural to their ſituations.—Some of the ſpeeches are ſo long as to retard the action; for I rather aſpired after Moral Inſtruc<g ref="char:EOLhyphen"/>tion, than the purity of Dramatic Compoſition. The very terms of Act and Scene are avoided; becauſe I was un<g ref="char:EOLhyphen"/>willing
-<pb n="vi" facs="tcp:020534_0004_0FAFE105F91C3570"/>
+<pb n="vi" facs="unknown:020534_0004_0FAFE105F91C3570"/>
 to awaken the attention of the Reader to my defi<g ref="char:EOLhyphen"/>ciencies in critical exactneſs.</p>
             <p>It will be thought that I have choſen, perhaps, the leaſt important paſſage in the eventful Life of David, for the foundation of the Drama which bears his name. Yet even in this, his firſt exploit, the ſacced hiſtorian repre<g ref="char:EOLhyphen"/>ſents him as exhibiting no mean leſſon of modeſty, humi<g ref="char:EOLhyphen"/>lity, courage, and piety; virtaes not only admiralde, but imitable; and within the each of every Reader. Many will think, that the introduction of Saul's daugther would have added to the effect of the piece: and I have no doubt, but that it would have made the intrigue more complicated, and more intereſting, had this Drama been intended for the Stage. There, all that is tender, and all that is terrible in the paſſions, find a proper place. But I write for the Young, in whom it will be always time enough to have them awakened; I write nor a claſs of Readers, to whom it is not eaſy to accommodate one ſub<g ref="char:EOLhyphen"/>ject<note n="*" place="bottom">It would not be eaſy, I believe, to introduce Sacred Tragedies on the Engliſh Stage. The ſcrupulous would think it profane, while the profane would think it <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ull. Yet the excellent <hi>RACINE,</hi> in a diſſipated country, and a voluptuous court, ventured to adapt the ſtory of <hi>Athaliah</hi> to the French Theatre; and it remains to us a glorius monu<g ref="char:EOLhyphen"/>ment of its Author's courageous piety, and of the perfection of the Dramatic Art.</note>.</p>
             <p>A very judicious and learned friend has remarked, that the <hi>Reflections of King Hezekiah</hi> breathe rather too much
-<pb n="vii" facs="tcp:020534_0005_0FAFE106BAA970D8"/>
+<pb n="vii" facs="unknown:020534_0005_0FAFE106BAA970D8"/>
 of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſettled a belief in the General Judg<g ref="char:EOLhyphen"/>ment. I feel the juſtneſs of the objetion, without hav<g ref="char:EOLhyphen"/>ing been able to obviate it. I wiſhed to convey a ſtrong idea of this great leading truth; and have, perhaps im<g ref="char:EOLhyphen"/>properly, aſcribed ſentiments to a Jewiſh monarch, merely becauſe I wiſhed to impreſs them on the Chriſtian Reader.</p>
             <p>The Critic and the Scholar, if any ſuch ſhould honour theſe pages with their attention, will find ample matter on which to exerciſe their candor and charity; qualities ſo natural to genius and to learning, that even the feebleneſs of my performance will not be able to obſtruct the exer<g ref="char:EOLhyphen"/>tion of them in favour of my intention.</p>
             <p>The amiable Poet <note n="*" place="bottom">Cowley.</note> from whom I have taken my mot<g ref="char:EOLhyphen"/>to, after ſhewing the ſuperiority of the Sacred, over the Profane Hiſtories (ſome inſtances of which I have no<g ref="char:EOLhyphen"/>ticed in my Introduction), concludes with the following remark, which I may apply to myſelf with more proprie<g ref="char:EOLhyphen"/>ty than it was uſed by the Author:—<q>I am far from aſſuming to myſelf, to have fulfilled the duty of this weighty undertaking; and I ſhall be ambitious of no o<g ref="char:EOLhyphen"/>ther fruit from this weak and imperfect attempt of mine, but the opening of a way to the courage and in<g ref="char:EOLhyphen"/>duſtry of ſome other perſons, who may be better able to perform it thoroughly and ſucceſsfully.</q>
             </p>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:020534_0006_0FAFE107796CC288"/>
+            <pb facs="unknown:020534_0006_0FAFE107796CC288"/>
             <head>CONTENTS.</head>
             <list>
                <item>THE INTRODUCTION, Page 9</item>
@@ -170,7 +171,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
             </list>
          </div>
          <div type="introduction">
-            <pb n="9" facs="tcp:020534_0007_0FAFE1083A65BCD0"/>
+            <pb n="9" facs="unknown:020534_0007_0FAFE1083A65BCD0"/>
             <head>THE INTRODUCTION.</head>
             <lg>
                <l>O FOR the ſacred energy, which ſtruck</l>
@@ -203,7 +204,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                <l>When man was pure, and angels were his gueſts.</l>
             </lg>
             <lg>
-               <pb n="10" facs="tcp:020534_0008_0FAFE108FA4D3778"/>
+               <pb n="10" facs="unknown:020534_0008_0FAFE108FA4D3778"/>
                <l>It will not be.—Nor prophet's burning zeal,</l>
                <l>Nor muſe of fire, nor yet to ſweep the ſtrings</l>
                <l>With ſacred energy to me belongs;</l>
@@ -246,7 +247,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                <l>What had'ſt thou ſelr, to ſee the fair romance</l>
                <l>Of high imagination, the bright dream</l>
                <l>
-                  <pb n="11" facs="tcp:020534_0009_0FAFE109BA5B7BD0"/>Of thy pure fancy more than realiz'd!</l>
+                  <pb n="11" facs="unknown:020534_0009_0FAFE109BA5B7BD0"/>Of thy pure fancy more than realiz'd!</l>
                <l>O ſweet enthuſiaſt! thou hadſt bleſt a ſcheme</l>
                <l>Fair, good, and perfect. how had thy rapt ſoul</l>
                <l>Caught fire, and burnt with a diviner <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -286,7 +287,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                <l>Why ſhun to make our duty our delight?</l>
                <l>Let <hi>pleaſure</hi> be the motive (and allow</l>
                <l>
-                  <pb n="12" facs="tcp:020534_0010_0FAFE10A7A577490"/>That immortality be quite forgot:)</l>
+                  <pb n="12" facs="unknown:020534_0010_0FAFE10A7A577490"/>That immortality be quite forgot:)</l>
                <l>Where ſhall we trace, thro' all the page profane,</l>
                <l>A livelier pleaſure, and a purer ſource</l>
                <l>Of innocent delight, than the fair book</l>
@@ -319,7 +320,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                <l>How mighty Samſon led a life of toil</l>
                <l>Herculean? Pain and peril mark'd them both;</l>
                <l>
-                  <pb n="13" facs="tcp:020534_0011_0FAFE10B394938E0"/>A life eventful, and diſaſtrous death.</l>
+                  <pb n="13" facs="unknown:020534_0011_0FAFE10B394938E0"/>A life eventful, and diſaſtrous death.</l>
                <l>Can all the tales, which Grecian records yield;</l>
                <l>Can all the names the Roman page records,</l>
                <l>Renown'd for friendſhip and ſurpaſſing love;</l>
@@ -354,7 +355,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                <l>Its ſacred dignity, and high deſcent;</l>
                <l>Should e'er ſo far its origin debaſe,</l>
                <l>
-                  <pb n="14" facs="tcp:020534_0012_0FAFE10BFA871FB0"/>To ſpread corruption's bane, to lull the bad</l>
+                  <pb n="14" facs="unknown:020534_0012_0FAFE10BFA871FB0"/>To ſpread corruption's bane, to lull the bad</l>
                <l>With flattery's opiate ſtrain; to taint the heart</l>
                <l>Of innocence, and ſilently infuſe</l>
                <l>Delicious poiſon, whoſe inſidious charm</l>
@@ -387,7 +388,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                      <p>PARADISE LOST.</p>
                   </note>, reform the wrong,</l>
                <l>
-                  <pb n="15" facs="tcp:020534_0013_0FAFE10CB8F494E8"/>Exalt the low, and brighten the obſcure!</l>
+                  <pb n="15" facs="unknown:020534_0013_0FAFE10CB8F494E8"/>Exalt the low, and brighten the obſcure!</l>
                <l>Still may I note, how all th' agreeing parts</l>
                <l>Of this well-order'd fabric join to frame</l>
                <l>One fair, one finiſh'd, one harmonious whole!</l>
@@ -401,7 +402,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
       <body>
          <div type="play">
             <div type="dramatis_personae">
-               <pb facs="tcp:020534_0014_0FAFE10E6D4EE850"/>
+               <pb facs="unknown:020534_0014_0FAFE10E6D4EE850"/>
                <head>PERSONS OF THE DRAMA.</head>
                <list>
                   <head>HEBREW WOMEN.</head>
@@ -418,7 +419,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                <p>☞The Subject is taken the Second Chapter of the book of Exodus.</p>
             </div>
             <div n="1" type="part">
-               <pb n="17" facs="tcp:020534_0015_0FAFE10E880DFB30"/>
+               <pb n="17" facs="unknown:020534_0015_0FAFE10E880DFB30"/>
                <head>MOSES IN THE BULRUSHES: A SACRED DRAMA. PART I.</head>
                <epigraph>
                   <q>
@@ -446,7 +447,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                         </gap> taſte the tranſports af maternal love,</l>
                      <l>And never know its anguiſh! happy mothers!</l>
                      <l>
-                        <pb n="18" facs="tcp:020534_0016_0FAFE10EF992B178"/>How diff'rent is the lot of thy ſad daughters,</l>
+                        <pb n="18" facs="unknown:020534_0016_0FAFE10EF992B178"/>How diff'rent is the lot of thy ſad daughters,</l>
                      <l>O wretched Iſrael! Was it then for this?</l>
                      <l>Was it for this the righteous arm of GOD</l>
                      <l>Reſcued his choſen people from the jaws</l>
@@ -485,7 +486,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>And heav'n has granted him.</l>
                </sp>
                <sp>
-                  <pb n="19" facs="tcp:020534_0017_0FAFE10FB970E908"/>
+                  <pb n="19" facs="unknown:020534_0017_0FAFE10FB970E908"/>
                   <speaker>JOCHEBED.</speaker>
                   <lg>
                      <l>O ſad eſtate</l>
@@ -526,7 +527,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Much in the ROCK OF AGES.</l>
                </sp>
                <sp>
-                  <pb n="20" facs="tcp:020534_0018_0FAFE11078933338"/>
+                  <pb n="20" facs="unknown:020534_0018_0FAFE11078933338"/>
                   <speaker>MIRIAM.</speaker>
                   <l>Think, O think,</l>
                   <l>What perils thou already haſt incur'd;</l>
@@ -571,7 +572,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                         <desc>〈◊〉</desc>
                      </gap>.</l>
                   <l>
-                     <pb n="21" facs="tcp:020534_0019_0FAFE111D773EFD0"/>Nor does diviſion weaken, nor the force</l>
+                     <pb n="21" facs="unknown:020534_0019_0FAFE111D773EFD0"/>Nor does diviſion weaken, nor the force</l>
                   <l>Of conſtant operation e'er exhauſt</l>
                   <l>Parental love. All other paſſions change,</l>
                   <l>With changing circumſtances; riſe or fall,</l>
@@ -612,7 +613,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Seize the defenceleſs infant!</l>
                </sp>
                <sp>
-                  <pb n="22" facs="tcp:020534_0020_0FAFE112315B0668"/>
+                  <pb n="22" facs="unknown:020534_0020_0FAFE112315B0668"/>
                   <speaker>JOCHEBED.</speaker>
                   <l>Oh, forbear!</l>
                   <l>Spare my fond heart. Yet not the crocodile,</l>
@@ -651,7 +652,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Go then, my MIRIAM! go, and take the infant,</l>
                   <l>Buried in harmleſs ſlumbers there he lies:</l>
                   <l>
-                     <pb n="23" facs="tcp:020534_0021_0FAFE112BB029CF8"/>Let me not ſee him—ſpare my heart that pang.</l>
+                     <pb n="23" facs="unknown:020534_0021_0FAFE112BB029CF8"/>Let me not ſee him—ſpare my heart that pang.</l>
                   <l>Yet ſure; one little look may be indulg'd,</l>
                   <l>On kiſs—perhaps the laſt. No more, my ſoul!</l>
                   <l>That fondneſs wou'd be fatal—I ſhou'd keep him.</l>
@@ -689,7 +690,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Yet e'er thou go'ſt, obſerve me well.</l>
                   <l>When thou haſt laid him his watry bed,</l>
                   <l>
-                     <pb n="24" facs="tcp:020534_0022_0FAFE1137B91F448"/>Oh leave him not; but at a diſtance wait,</l>
+                     <pb n="24" facs="unknown:020534_0022_0FAFE1137B91F448"/>Oh leave him not; but at a diſtance wait,</l>
                   <l>And mark what Heav'n's high will determines for him.</l>
                   <l>Lay him among the flags on yonder beach,</l>
                   <l>Juſt where the royal gardens meet the Nile.</l>
@@ -713,7 +714,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Sweet babe, farewell! Yet think not I will leave thee;</l>
                   <l>No, I will watch thee, till the greedy wave,</l>
                   <l>
-                     <pb n="25" facs="tcp:020534_0023_0FAFE1143A81B8E0"/>Devour thy little bark: I'll ſit me down,</l>
+                     <pb n="25" facs="unknown:020534_0023_0FAFE1143A81B8E0"/>Devour thy little bark: I'll ſit me down,</l>
                   <l>And ſing to thee, ſweet babe! Thou can'ſt not hear;</l>
                   <l>But 'twill amuſe me, while I watch thy fate.</l>
                   <stage>[She ſits down on a bank, and ſings.</stage>
@@ -749,7 +750,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   </q>
                   <stage>[She riſes, and looks out.</stage>
                   <l>
-                     <pb n="26" facs="tcp:020534_0024_0FAFE114FAB6BF18"/>Who moves this way? of royal port ſhe ſeems;</l>
+                     <pb n="26" facs="unknown:020534_0024_0FAFE114FAB6BF18"/>Who moves this way? of royal port ſhe ſeems;</l>
                   <l>Perharps ſent hither by the hand of Heav'n,</l>
                   <l>To prop the falling houſe of Levi.—Soft!</l>
                   <l>I'll liſten unperceiv'd, theſe trees will hide me.</l>
@@ -781,7 +782,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Something, but what I , know not.</l>
                </sp>
                <sp>
-                  <pb n="27" facs="tcp:020534_0025_0FAFE11698E69E58"/>
+                  <pb n="27" facs="unknown:020534_0025_0FAFE11698E69E58"/>
                   <speaker>PRINCESS.</speaker>
                   <l>Go and examine, what this ſight may mean.</l>
                </sp>
@@ -826,7 +827,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Shou'd this be one, my Princeſs known the danger.</l>
                </sp>
                <sp>
-                  <pb n="28" facs="tcp:020534_0026_0FAFE1173AE05F58"/>
+                  <pb n="28" facs="unknown:020534_0026_0FAFE1173AE05F58"/>
                   <speaker>PRINCESS.</speaker>
                   <l>No danger ſhould deter from acts of mercy.</l>
                </sp>
@@ -875,7 +876,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                         <desc>•</desc>
                      </gap>er grow to ſuch a formidable greatneſs:</l>
                   <l>
-                     <pb n="29" facs="tcp:020534_0027_0FAFE118031517D0"/>(Which all the gods avert, whom Egypt worſhips)</l>
+                     <pb n="29" facs="unknown:020534_0027_0FAFE118031517D0"/>(Which all the gods avert, whom Egypt worſhips)</l>
                   <l>This infant's life can never ſerve their cauſe,</l>
                   <l>Nor can his single death prevent their greatneſs.</l>
                </sp>
@@ -933,7 +934,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                      <l>Now ſhe approaches where the ark is laid!</l>
                      <l>With what compaſſion, with what angel-ſweetneſs,</l>
                      <l>
-                        <pb n="30" facs="tcp:020534_0028_0FAFE118B8AD2F90"/>She bends to look upon the infant's face!</l>
+                        <pb n="30" facs="unknown:020534_0028_0FAFE118B8AD2F90"/>She bends to look upon the infant's face!</l>
                      <l>She takes his little hand in her's—he wakes—</l>
                      <l>She ſmiles upon him—hark! alas, he cries;</l>
                      <l>Weep on, ſweet babe! weep on, till thou haſt touch'd</l>
@@ -978,7 +979,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Whom I intend to nurture as mine own.</l>
                </sp>
                <sp>
-                  <pb n="31" facs="tcp:020534_0029_0FAFE1197B05ECA0"/>
+                  <pb n="31" facs="unknown:020534_0029_0FAFE1197B05ECA0"/>
                   <speaker>MIRIAM.</speaker>
                   <l>My tranſports will betray me! [<hi>A ſide.</hi>] Gen'rous Princeſs!</l>
                </sp>
@@ -1018,7 +1019,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                      <l>That nat'ral bias of the ſoul to mercy,</l>
                      <l>Then mad'ſt that mercy duty! Gracious Pow'r!</l>
                      <l>
-                        <pb n="32" facs="tcp:020534_0030_0FAFE11BAA2E5AE8"/>Mad'ſt the keen rapture exquiſite as right:</l>
+                        <pb n="32" facs="unknown:020534_0030_0FAFE11BAA2E5AE8"/>Mad'ſt the keen rapture exquiſite as right:</l>
                      <l>Beyond the joys of ſenſe; as pleaſure ſweet;</l>
                      <l>As reaſon conſtant, and as inſtinct ſtrong!</l>
                   </lg>
@@ -1043,7 +1044,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   </lg>
                   <stage>[She looks out.</stage>
                   <lg>
-                     <pb n="33" facs="tcp:020534_0031_0FAFE11BBA9C1AC8"/>
+                     <pb n="33" facs="unknown:020534_0031_0FAFE11BBA9C1AC8"/>
                      <l>Where's Miriam? ſhe has left her little charge,</l>
                      <l>Perhaps through fear, perhaps the was detected.</l>
                      <l>How wild is thought! how terrible conjecture!</l>
@@ -1087,7 +1088,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>He lives, he lives!</l>
                </sp>
                <sp>
-                  <pb n="34" facs="tcp:020534_0032_0FAFE11C79B4DF78"/>
+                  <pb n="34" facs="unknown:020534_0032_0FAFE11C79B4DF78"/>
                   <speaker>JOCHEBED.</speaker>
                   <l>Impoſſible: Oh! do not mock my grief!</l>
                   <l>See'ſt thou that empty veſſel?</l>
@@ -1128,7 +1129,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Yet ah! I tremble, Miriam; ſhou'd he learn,</l>
                   <l>With Egypt's poliſh'd arts, her baneful faith!</l>
                   <l>
-                     <pb n="35" facs="tcp:020534_0033_0FAFE102F934D238"/>O worſe exchange for death! Yes, ſhou'd lie learn</l>
+                     <pb n="35" facs="unknown:020534_0033_0FAFE102F934D238"/>O worſe exchange for death! Yes, ſhou'd lie learn</l>
                   <l>In yon' proud palace to diſown <hi>his</hi> hand</l>
                   <l>Who thus has ſav'd him: ſhou'd he e'er embrace</l>
                   <l>(As ſure he will, if bred in Pharaoh's court)</l>
@@ -1165,7 +1166,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>My gratitude, my wonder, and my joy!</l>
                </sp>
                <sp>
-                  <pb n="36" facs="tcp:020534_0034_0FAFE11E02B4F670"/>
+                  <pb n="36" facs="unknown:020534_0034_0FAFE11E02B4F670"/>
                   <speaker>MIRIAM.</speaker>
                   <l>Yes, thou ſhalt pour into his infant mind</l>
                   <l>The pureſt precepts of the pareſt faith.</l>
@@ -1202,7 +1203,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Was loſt, and is reſtor'd; was dead, and lives!</l>
                </sp>
                <sp>
-                  <pb n="37" facs="tcp:020534_0035_0FAFE11EB9610E70"/>
+                  <pb n="37" facs="unknown:020534_0035_0FAFE11EB9610E70"/>
                   <speaker>MIRIAM.</speaker>
                   <l>How joyful ſhall we ſpend the live-long night</l>
                   <l>In praiſes to JEHOVAH; who thus mocks!</l>
@@ -1242,7 +1243,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
             <trailer>THE END</trailer>
          </div>
          <div type="play">
-            <pb facs="tcp:020534_0036_0FAFE11F7981B5D0"/>
+            <pb facs="unknown:020534_0036_0FAFE11F7981B5D0"/>
             <div type="dramatis_personae">
                <head>PERSONS OF THE DRAMA.</head>
                <list>
@@ -1264,7 +1265,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                <p>☞The Subject of the Drama is taken from the Seven<g ref="char:EOLhyphen"/>teenth Chapter of the Firſt Book of Samuel.</p>
             </div>
             <div n="1" type="part">
-               <pb n="39" facs="tcp:020534_0037_0FAFE12041A45190"/>
+               <pb n="39" facs="unknown:020534_0037_0FAFE12041A45190"/>
                <head>DAVID AND GOLIATH. A SACRED DRAMA. PART I.</head>
                <epigraph>
                   <q>
@@ -1309,7 +1310,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   </lg>
                   <lg n="2">
                      <head>
-                        <pb n="40" facs="tcp:020534_0038_0FAFE12104141140"/>II.</head>
+                        <pb n="40" facs="unknown:020534_0038_0FAFE12104141140"/>II.</head>
                      <l>Teach me to bleſs my lowly lot</l>
                      <l>Confin'd to this paternal co<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -1349,7 +1350,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                </sp>
                <stage>[He lays down his harp, and riſe.</stage>
                <sp>
-                  <pb n="41" facs="tcp:020534_0039_0FAFE12208484128"/>
+                  <pb n="41" facs="unknown:020534_0039_0FAFE12208484128"/>
                   <speaker>DAVID.</speaker>
                   <lg>
                      <l>This Shepherd's life were dull and taſteleſs all,</l>
@@ -1384,7 +1385,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                      <l>Yet thoſe I too will keep; but not inſtead</l>
                      <l>Of holineſs ſubſtantial, inward worth;</l>
                      <l>
-                        <pb n="42" facs="tcp:020534_0040_0FAFE12382770310"/>As commutation cheap for pious deeds,</l>
+                        <pb n="42" facs="unknown:020534_0040_0FAFE12382770310"/>As commutation cheap for pious deeds,</l>
                      <l>And purity of life. But as the types</l>
                      <l>Of better things; as fair external ſigns</l>
                      <l>Of inward holineſs and ſecret truth.</l>
@@ -1423,7 +1424,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>To taſte, and to communicate the joys,</l>
                   <l>The thouſand fond, endearing charities</l>
                   <l>
-                     <pb n="43" facs="tcp:020534_0041_0FAFE123F91576E0"/>Of tenderneſs domeſtic; Nature's beſt</l>
+                     <pb n="43" facs="unknown:020534_0041_0FAFE123F91576E0"/>Of tenderneſs domeſtic; Nature's beſt</l>
                   <l>And lovelieſt gift, with which ſhe well atones</l>
                   <l>The niggard boon of fortune.</l>
                </sp>
@@ -1458,7 +1459,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>To learn the preſent fortune of the war.</l>
                </sp>
                <sp>
-                  <pb n="44" facs="tcp:020534_0042_0FAFE124C1299F68"/>
+                  <pb n="44" facs="unknown:020534_0042_0FAFE124C1299F68"/>
                   <speaker>JESSE.</speaker>
                   <l>And wiſely haſt thou done. Thrice happy realm,</l>
                   <l>Who ſhall ſubmit one day to his command</l>
@@ -1495,7 +1496,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>By one man's crime, by one man's luſt of pow'r,</l>
                   <l>Unpeopled! Naked plains and ravag'd fields</l>
                   <l>
-                     <pb n="45" facs="tcp:020534_0043_0FAFE12578BAB480"/>Succeed to ſmiling harveſts, and the fruits</l>
+                     <pb n="45" facs="unknown:020534_0043_0FAFE12578BAB480"/>Succeed to ſmiling harveſts, and the fruits</l>
                   <l>Of peaceful olive, luſcious fig and vine!</l>
                   <l>Here, rifled temples are the cavern'd dens</l>
                   <l>Of ſavage beaſts, or haunt of birds obſcene.</l>
@@ -1532,7 +1533,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>No other cauſe can ſanctify reſentment.</l>
                </sp>
                <sp>
-                  <pb n="46" facs="tcp:020534_0044_0FAFE12639A94AA0"/>
+                  <pb n="46" facs="unknown:020534_0044_0FAFE12639A94AA0"/>
                   <speaker>DAVID.</speaker>
                   <l>Sure virtuous friendſhip is a noble cauſe!</l>
                   <l>O were the princely Jonathan in danger,</l>
@@ -1573,7 +1574,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                         <desc>•</desc>
                      </gap> ſuch plain healthful viands,</l>
                   <l>
-                     <pb n="47" facs="tcp:020534_0045_0FAFE126FB68CD20"/>As furniſh out our frugal ſhepherd's meal.</l>
+                     <pb n="47" facs="unknown:020534_0045_0FAFE126FB68CD20"/>As furniſh out our frugal ſhepherd's meal.</l>
                   <l>And to the valiant captain of their hoſt,</l>
                   <l>Preſent ſuch rural gifts as ſuit our fortune.</l>
                   <l>Heap'd on the board within my tent thou'lt find them.</l>
@@ -1617,7 +1618,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Their high atchievements bring. 'Tis in this view,</l>
                   <l>That virtue is her proper recompence.</l>
                   <l>
-                     <pb n="48" facs="tcp:020534_0046_0FAFE127BA9A78D0"/>Wealth, as its natural conſequence, will flow</l>
+                     <pb n="48" facs="unknown:020534_0046_0FAFE127BA9A78D0"/>Wealth, as its natural conſequence, will flow</l>
                   <l>From induſtry; toil with ſucceſs is crown'd:</l>
                   <l>From ſplendid actions high renown will ſpring.</l>
                   <l>Such is the uſual courſe of human things.</l>
@@ -1649,7 +1650,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>The tear, by mortal eye unſeen or ſcorn'd.</l>
                </sp>
                <sp>
-                  <pb n="49" facs="tcp:020534_0047_0FAFE12879B7D930"/>
+                  <pb n="49" facs="unknown:020534_0047_0FAFE12879B7D930"/>
                   <speaker>DAVID.</speaker>
                   <l>As Hermon's dews their grateful freſhneſs ſhed,</l>
                   <l>And cheer the herbage, and the flow'rs renew;</l>
@@ -1688,7 +1689,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Of Bethlehem came, pretending ſacrifice,</l>
                   <l>To ſcreen his errand from the jealous king.</l>
                   <l>
-                     <pb n="50" facs="tcp:020534_0048_0FAFE129454EF2A0"/>He ſanctify'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <pb n="50" facs="unknown:020534_0048_0FAFE129454EF2A0"/>He ſanctify'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>is firſt, me, and my ſons;</l>
                   <l>For ſanctity increas'd ſhould ſtill precede</l>
@@ -1725,7 +1726,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                </sp>
             </div>
             <div n="2" type="part">
-               <pb n="51" facs="tcp:020534_0049_0FAFE12A02E29238"/>
+               <pb n="51" facs="unknown:020534_0049_0FAFE12A02E29238"/>
                <head>DAVID AND GOLIATH. PART II.</head>
                <stage>SCENE, The Camp.</stage>
                <stage>ELIAB, ABINADAB, ABNER, ISRAELITES.</stage>
@@ -1746,7 +1747,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>On Judah's hallow'd earth.</l>
                </sp>
                <sp>
-                  <pb n="52" facs="tcp:020534_0050_0FAFE12AC375F4B0"/>
+                  <pb n="52" facs="unknown:020534_0050_0FAFE12AC375F4B0"/>
                   <speaker>ELIAB.</speaker>
                   <l>Full forty days</l>
                   <l>Has the inſulting giant, proud Goliath,</l>
@@ -1788,7 +1789,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>And conſtrue harmleſs mirth to foul offence.</l>
                </sp>
                <stage>
-                  <pb n="53" facs="tcp:020534_0051_0FAFE12B8871E550"/>
+                  <pb n="53" facs="unknown:020534_0051_0FAFE12B8871E550"/>
                   <hi>Enter</hi> DAVID.</stage>
                <sp>
                   <speaker>DAVID.</speaker>
@@ -1824,7 +1825,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Why cam'ſt thou hither?</l>
                </sp>
                <sp>
-                  <pb n="54" facs="tcp:020534_0052_0FAFE12D47B2B018"/>
+                  <pb n="54" facs="unknown:020534_0052_0FAFE12D47B2B018"/>
                   <speaker>DAVID.</speaker>
                   <l>Is there not a cauſe?</l>
                   <l>Why that diſpleaſure kindling in thine eye,</l>
@@ -1863,7 +1864,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Each ſound has novelty; each thing I ſee</l>
                   <l>Attracts attention; every noiſe I hear</l>
                   <l>
-                     <pb n="55" facs="tcp:020534_0053_0FAFE12DCC9AC6B0"/>Awakes confus'd emotions indiſtinct,</l>
+                     <pb n="55" facs="unknown:020534_0053_0FAFE12DCC9AC6B0"/>Awakes confus'd emotions indiſtinct,</l>
                   <l>Yet full of charming <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>, ſweet diſtraction.</l>
@@ -1903,7 +1904,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>Urg'd as I am, I will not anſwer thee.</l>
                   <l>Who conquers his own ſpirit, O my brother!</l>
                   <l>
-                     <pb n="56" facs="tcp:020534_0054_0FAFE12E79E51738"/>He is the only conqueror.—Again</l>
+                     <pb n="56" facs="unknown:020534_0054_0FAFE12E79E51738"/>He is the only conqueror.—Again</l>
                   <l>That ſhout myſterious! Pray you, tell me who</l>
                   <l>This proud Philiſtine is who ſends defiance</l>
                   <l>To Iſrael's hardy chieftains?</l>
@@ -1947,7 +1948,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                      </gap> cuiraſs firmly jointed ſtands.</l>
                   <l>But who ſhall tell the wonders of his ſpear,</l>
                   <l>
-                     <pb n="57" facs="tcp:020534_0055_0FAFE12F3B41EFE8"/>And hope to gain belief? of maſſive iron</l>
+                     <pb n="57" facs="unknown:020534_0055_0FAFE12F3B41EFE8"/>And hope to gain belief? of maſſive iron</l>
                   <l>Its temper'd frame; not leſs than the broad beam</l>
                   <l>To which the buſy weaver hangs his loom;</l>
                   <l>Not to be wielded by a mortal hand,</l>
@@ -1982,7 +1983,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>His ſingle arm to mine. Th' event of this</l>
                   <l>Shall fix the fate of Iſrael and Philiſtia.</l>
                   <l>
-                     <pb n="58" facs="tcp:020534_0056_0FAFE13000D84F00"/>If victory favour him, then will we live</l>
+                     <pb n="58" facs="unknown:020534_0056_0FAFE13000D84F00"/>If victory favour him, then will we live</l>
                   <l>Your tributary ſlaves; but if my arm</l>
                   <l>Be crown'd with conqueſt, you ſhall then live ours.</l>
                   <l>Give me a man, if your effeminate bands</l>
@@ -2021,7 +2022,7 @@ of the ſpirit of Chriſtianity; for that it is ſcarcely probable he had ſo ſ
                   <l>It is indeed a boon which kings might ſtrive for,</l>
                   <l>And has none anſwer'd yet this bold defiance?</l>
                   <l>
-                     <pb n="59" facs="tcp:020534_0057_0FAFE130BB97FB40"/>What, all this goodly hoſt of Iſraelites,</l>
+                     <pb n="59" facs="unknown:020534_0057_0FAFE130BB97FB40"/>What, all this goodly hoſt of Iſraelites,</l>
                   <l>GOD's own peculiar people! all afraid</l>
                   <l>T' aſſert GOD's injur'd honour, and their own?</l>
                   <l>The king himſelf, who in his early youth</l>
@@ -2057,7 +2058,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Braggard, hold!</l>
                </sp>
                <sp>
-                  <pb n="60" facs="tcp:020534_0058_0FAFE1317A6130C0"/>
+                  <pb n="60" facs="unknown:020534_0058_0FAFE1317A6130C0"/>
                   <speaker>ABNER.</speaker>
                   <l>I take thee at thy word; and will, with ſpeed,</l>
                   <l>Conduct thee to my royal maſter's preſence.</l>
@@ -2086,7 +2087,7 @@ It boots not, friends, by many or by few.</q>
                   <l>The crown of Iſrael? I had known content,</l>
                   <l>Nay happineſs, if happineſs unmix'd</l>
                   <l>
-                     <pb n="61" facs="tcp:020534_0059_0FAFE13239B2C850"/>To mortal man were known; had I ſtill liv'd</l>
+                     <pb n="61" facs="unknown:020534_0059_0FAFE13239B2C850"/>To mortal man were known; had I ſtill liv'd</l>
                   <l>Among the humble tents of Benjamin.</l>
                   <l>A ſhepherd's occupation was my joy,</l>
                   <l>And ev'ry guiltleſs day was crown'd with peace.</l>
@@ -2117,7 +2118,7 @@ It boots not, friends, by many or by few.</q>
                   <l>This giant-boaſter, whoſe repeated threats</l>
                   <l>Strike thro' my inmoſt ſoul! There was a time—</l>
                   <l>
-                     <pb n="62" facs="tcp:020534_0060_0FAFE132F9025858"/>Of that no more!—I am not what I was.</l>
+                     <pb n="62" facs="unknown:020534_0060_0FAFE132F9025858"/>Of that no more!—I am not what I was.</l>
                   <l>Shou'd valiant Jonathan accept the challenge,</l>
                   <l>'Twould but increaſe his favour with the people,</l>
                   <l>And make the crown ſit looſely on my brow.</l>
@@ -2154,7 +2155,7 @@ It boots not, friends, by many or by few.</q>
                   <l>I bring thee news, O king!</l>
                </sp>
                <sp>
-                  <pb n="63" facs="tcp:020534_0061_0FAFE133BA52A618"/>
+                  <pb n="63" facs="unknown:020534_0061_0FAFE133BA52A618"/>
                   <speaker>SAUL.</speaker>
                   <l>My valiant uncle!</l>
                   <l>What can avail thy news? A ſoul oppreſs'd,</l>
@@ -2194,7 +2195,7 @@ It boots not, friends, by many or by few.</q>
                   <l>To credulous age, or weak believing women;</l>
                   <l>They love whate'er is marvellous, and doat</l>
                   <l>
-                     <pb n="64" facs="tcp:020534_0062_0FAFE13479CCC4A8"/>On deeds prodigious, and incredible,</l>
+                     <pb n="64" facs="unknown:020534_0062_0FAFE13479CCC4A8"/>On deeds prodigious, and incredible,</l>
                   <l>Which ſober ſenſe rejects I laugh to think</l>
                   <l>Of thy extravagance. A ſhepherd's boy</l>
                   <l>Encounter him, whom na<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2237,7 +2238,7 @@ It boots not, friends, by many or by few.</q>
                   <l>What muſt I think? Abner himſelf is brave,</l>
                   <l>And ſkill'd in human kind: nor does he judge</l>
                   <l>
-                     <pb n="65" facs="tcp:020534_0063_0FAFE1353AA4F080"/>So lightly, to be caught by ſpecious words,</l>
+                     <pb n="65" facs="unknown:020534_0063_0FAFE1353AA4F080"/>So lightly, to be caught by ſpecious words,</l>
                   <l>And fraud's ſmooth artifice, without the mark</l>
                   <l>Of worth intrinſie. But behold he comes!</l>
                   <l>The youth too with him! Juſtly did he praiſe</l>
@@ -2277,7 +2278,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Of helm, and buckler, is to thee unknown.</l>
                </sp>
                <sp>
-                  <pb n="66" facs="tcp:020534_0064_0FAFE135FAC9AEC0"/>
+                  <pb n="66" facs="unknown:020534_0064_0FAFE135FAC9AEC0"/>
                   <speaker>DAVID.</speaker>
                   <l>Arms I have ſeldom ſeen. I little know</l>
                   <l>Of war's proud diſcipline. The trumpet's clang,</l>
@@ -2319,7 +2320,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Th' inſulted honour of the GOD thou ſerv'ſt.</l>
                </sp>
                <sp>
-                  <pb n="67" facs="tcp:020534_0065_0FAFE136B8CDA428"/>
+                  <pb n="67" facs="unknown:020534_0065_0FAFE136B8CDA428"/>
                   <speaker>ABNER.</speaker>
                   <l>'Tis nobly ſaid.</l>
                </sp>
@@ -2360,7 +2361,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Thy ſervant ſlew the lion and the bear,</l>
                   <l>I kill'd them both, and bore their ſhaggy ſpoils</l>
                   <l>
-                     <pb n="68" facs="tcp:020534_0066_0FAFE13817416A38"/>In triumph home. And ſhall I fear to meet</l>
+                     <pb n="68" facs="unknown:020534_0066_0FAFE13817416A38"/>In triumph home. And ſhall I fear to meet</l>
                   <l>Th' uncircumcis'd Philiſtine? No: that GOD,</l>
                   <l>Who ſav'd me from the bear's deſtructive fang,</l>
                   <l>And hangry lion's jaw, will not he ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2399,7 +2400,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Pardon, O king! the coat of plaited mail,</l>
                   <l>Theſe limbs have never known; it wou'd not ſhield,</l>
                   <l>
-                     <pb n="69" facs="tcp:020534_0067_0FAFE13839FC5088"/>'Twou'd but encumber one, who never felt</l>
+                     <pb n="69" facs="unknown:020534_0067_0FAFE13839FC5088"/>'Twou'd but encumber one, who never felt</l>
                   <l>The weight of armour.</l>
                </sp>
                <sp>
@@ -2422,7 +2423,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Thou ever preſent help in time of need!</l>
                   <l>Let thy broad mercy, as a ſhield, defend;</l>
                   <l>
-                     <pb n="70" facs="tcp:020534_0068_0FAFE13900DBBDE8"/>And let thine everlaſting arms ſupport me!</l>
+                     <pb n="70" facs="unknown:020534_0068_0FAFE13900DBBDE8"/>And let thine everlaſting arms ſupport me!</l>
                   <l>Then, tho' the heathen rage, I ſhall not fear.</l>
                   <l>JEHOVAH! be my buckler. Mighty LORD!</l>
                   <l>Thou, who haſt deign'd by humble inſtruments,</l>
@@ -2457,7 +2458,7 @@ It boots not, friends, by many or by few.</q>
                   <l>But what wild dream</l>
                   <l>Has urg'd thee to this deed of deſp'rate raſhneſs?</l>
                   <l>
-                     <pb n="71" facs="tcp:020534_0069_0FAFE139C0C67C80"/>Thou mean'ſt, ſo have I learn'd, to meet Goliath,</l>
+                     <pb n="71" facs="unknown:020534_0069_0FAFE139C0C67C80"/>Thou mean'ſt, ſo have I learn'd, to meet Goliath,</l>
                   <l>His ſingle arm to thine.</l>
                </sp>
                <sp>
@@ -2498,7 +2499,7 @@ It boots not, friends, by many or by few.</q>
                   <l>And what is death?</l>
                   <l>Is it ſo terrible to die, my brother?</l>
                   <l>
-                     <pb n="72" facs="tcp:020534_0070_0FAFE13A7AE64AF8"/>Or grant it terrible, ſay is it not</l>
+                     <pb n="72" facs="unknown:020534_0070_0FAFE13A7AE64AF8"/>Or grant it terrible, ſay is it not</l>
                   <l>Inevitable too? If, by eluding death,</l>
                   <l>When ſome high duty calls us forth to die,</l>
                   <l>We cou'd for ever ſhun it, and eſcape</l>
@@ -2534,7 +2535,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Of multitudes approaching!</l>
                </sp>
                <sp>
-                  <pb n="73" facs="tcp:020534_0071_0FAFE13B3B7494C0"/>
+                  <pb n="73" facs="unknown:020534_0071_0FAFE13B3B7494C0"/>
                   <speaker>DAVID.</speaker>
                   <l>'Tis the giant!</l>
                   <l>I ſee him not, but hear his meaſur'd pace.</l>
@@ -2574,7 +2575,7 @@ It boots not, friends, by many or by few.</q>
                <stage>[Exit.</stage>
                <stage>[<hi>GOLIATH</hi> advances, clad in complete armour. One bear<g ref="char:EOLhyphen"/>ing his ſhield precedes him. The oppoſing armies are ſeen at a diſtance, drawn up on each ſide of the valley. <hi>GOLIATH</hi> begins to ſpeak, before he comes on. <hi>DAVID</hi> ſtands in the ſame place, with an air of indifference.]</stage>
                <sp>
-                  <pb n="74" facs="tcp:020534_0072_0FAFE13BFB1B8BC8"/>
+                  <pb n="74" facs="unknown:020534_0072_0FAFE13BFB1B8BC8"/>
                   <speaker>GOLIATH.</speaker>
                   <l>Where is the mighty man of war, who dares</l>
                   <l>Accept the challenge of Philiſtia's chief?</l>
@@ -2612,7 +2613,7 @@ It boots not, friends, by many or by few.</q>
                   <l>I ſee him not.</l>
                </sp>
                <sp>
-                  <pb n="75" facs="tcp:020534_0073_0FAFE13CBB08F5F8"/>
+                  <pb n="75" facs="unknown:020534_0073_0FAFE13CBB08F5F8"/>
                   <speaker>DAVID.</speaker>
                   <l>Behold hm here!</l>
                </sp>
@@ -2653,7 +2654,7 @@ It boots not, friends, by many or by few.</q>
                   <l>By me he will avenge upon thy head</l>
                   <l>Thy nation's ſin's and thine. Arm'd with his name,</l>
                   <l>
-                     <pb n="76" facs="tcp:020534_0074_0FAFE57DCAA2D2F8"/>U<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <pb n="76" facs="unknown:020534_0074_0FAFE57DCAA2D2F8"/>U<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>hrinking, I dare meet the ſtouteſt foe</l>
                   <l>That ever bath'd his hoſtile ſpear in blood.</l>
@@ -2698,7 +2699,7 @@ It boots not, friends, by many or by few.</q>
                   <l>And to its baſe the tott'ring fabric ſhook.</l>
                </sp>
                <sp>
-                  <pb n="77" facs="tcp:020534_0075_0FAFE13E42BF2FA0"/>
+                  <pb n="77" facs="unknown:020534_0075_0FAFE13E42BF2FA0"/>
                   <speaker>GOLIATH.</speaker>
                   <l>Inſulting boy! perhaps thou haſt not hear'd</l>
                   <l>The infamy of that inglorious day,</l>
@@ -2734,7 +2735,7 @@ It boots not, friends, by many or by few.</q>
                   <l>By Aſhdod's fane thou ly'ſt. Now will I meet thee,</l>
                   <l>Thou inſect warrior! ſince thou dar'ſt me thus!</l>
                   <l>
-                     <pb n="78" facs="tcp:020534_0076_0FAFE13EF98C1610"/>Already I behold thy mangled limbs,</l>
+                     <pb n="78" facs="unknown:020534_0076_0FAFE13EF98C1610"/>Already I behold thy mangled limbs,</l>
                   <l>Diſſever'd each from each, ere long to feed</l>
                   <l>The fierce, blood-ſnufling vulture. Mark me <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -2782,7 +2783,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Yet tho' no ſhield I bring, no arms, except</l>
                   <l>Theſe five ſmooth ſtones I gather'd from the brook,</l>
                   <l>
-                     <pb n="79" facs="tcp:020534_0077_0FAFE13FC3211620"/>With ſuch a ſimple ſling as ſhepherds uſe;</l>
+                     <pb n="79" facs="unknown:020534_0077_0FAFE13FC3211620"/>With ſuch a ſimple ſling as ſhepherds uſe;</l>
                   <l>
                      <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -2812,7 +2813,7 @@ It boots not, friends, by many or by few.</q>
                </sp>
             </div>
             <div n="5" type="part">
-               <pb n="80" facs="tcp:020534_0078_0FAFE1407A289878"/>
+               <pb n="80" facs="unknown:020534_0078_0FAFE1407A289878"/>
                <head>DAVID AND GOLIATH. PART V. SCENE, The Tent of SAUL.</head>
                <sp>
                   <speaker>SAUL, <hi>riſing from his Couch.</hi>
@@ -2834,7 +2835,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Why drive him from my preſence? he might now</l>
                   <l>Raiſe my ſunk ſoul, and my benighted mind</l>
                   <l>
-                     <pb n="81" facs="tcp:020534_0079_0FAFE14204363388"/>Enlighten with religion's cheering ray.</l>
+                     <pb n="81" facs="unknown:020534_0079_0FAFE14204363388"/>Enlighten with religion's cheering ray.</l>
                   <l>He dar'd to menace me with loſs of empire;</l>
                   <l>And I, for that bold honeſty, difiniſs'd him,</l>
                   <l>"Another ſhall poſſeſs thy throne, he cry'd,</l>
@@ -2872,7 +2873,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Leſt my fond ears deceive me!</l>
                </sp>
                <sp>
-                  <pb n="82" facs="tcp:020534_0080_0FAFE142C09206D0"/>
+                  <pb n="82" facs="unknown:020534_0080_0FAFE142C09206D0"/>
                   <speaker>ABNER.</speaker>
                   <l>Thy young champion</l>
                   <l>Has ſlain the giant.</l>
@@ -2912,7 +2913,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Then with a cry, as loud and terrible,</l>
                   <l>As Lybian lions roaring for their young,</l>
                   <l>
-                     <pb n="83" facs="tcp:020534_0081_0FAFE14380F792E8"/>Quite ſtunn'd, the furious Giant ſtagger'd, reel'd,</l>
+                     <pb n="83" facs="unknown:020534_0081_0FAFE14380F792E8"/>Quite ſtunn'd, the furious Giant ſtagger'd, reel'd,</l>
                   <l>And fell: the mighty maſs of man fell prone,</l>
                   <l>With its own weight his ſhatter'd bulk was bruis'd.</l>
                   <l>His clattering arms rung dreadful thro' the field,</l>
@@ -2950,7 +2951,7 @@ It boots not, friends, by many or by few.</q>
                   <l>What follow'd next?</l>
                </sp>
                <sp>
-                  <pb n="84" facs="tcp:020534_0082_0FAFE14439AA2560"/>
+                  <pb n="84" facs="unknown:020534_0082_0FAFE14439AA2560"/>
                   <speaker>ABNER.</speaker>
                   <l>The ſhouting Iſraelites</l>
                   <l>On the Philiſtines ruſh'd, and ſtill purſue</l>
@@ -2987,7 +2988,7 @@ It boots not, friends, by many or by few.</q>
                   <l>I like not this. In every thing ſuperior!</l>
                   <l>He ſoars above me <hi>(Aſide)</hi> Modeſt youth, thou'rt right.</l>
                   <l>
-                     <pb n="85" facs="tcp:020534_0083_0FAFE144F9818EC0"/>And fortune, as thou ſay'ſt, deſerves the praiſe</l>
+                     <pb n="85" facs="unknown:020534_0083_0FAFE144F9818EC0"/>And fortune, as thou ſay'ſt, deſerves the praiſe</l>
                   <l>We give to human valour.</l>
                </sp>
                <sp>
@@ -3030,7 +3031,7 @@ It boots not, friends, by many or by few.</q>
                   <l>I am he, O king!</l>
                </sp>
                <sp>
-                  <pb n="86" facs="tcp:020534_0084_0FAFE145B97657A8"/>
+                  <pb n="86" facs="unknown:020534_0084_0FAFE145B97657A8"/>
                   <speaker>SAUL.</speaker>
                   <l>Why this concealment? tell me, valiant David!</l>
                   <l>Why didſt thou hide thy birth and name till now?</l>
@@ -3071,7 +3072,7 @@ It boots not, friends, by many or by few.</q>
                         <desc>•</desc>
                      </gap>gentry?</l>
                   <l>
-                     <pb n="87" facs="tcp:020534_0085_0FAFE146817FD9A0"/>This merry ſound of tabret and of harp?</l>
+                     <pb n="87" facs="unknown:020534_0085_0FAFE146817FD9A0"/>This merry ſound of tabret and of harp?</l>
                   <l>What mean theſe idle inſtruments of triamph?</l>
                   <l>Theſe women, who in fair proceſſion move,</l>
                   <l>Making ſweet melody?</l>
@@ -3114,7 +3115,7 @@ It boots not, friends, by many or by few.</q>
                      <l>See the routed ſquadrons fly!</l>
                      <l>Hark' their clamours rend the ſky</l>
                      <l>
-                        <pb n="88" facs="tcp:020534_0086_0FAFE147420E8CE0"/>Blood and carnage ſtain the field!</l>
+                        <pb n="88" facs="unknown:020534_0086_0FAFE147420E8CE0"/>Blood and carnage ſtain the field!</l>
                      <l>See, the vanquiſh'd nations yield!</l>
                      <l>Diſmay and terror fill the frighten'd land;</l>
                      <l>While conq'ring David routs the trembling band</l>
@@ -3133,7 +3134,7 @@ It boots not, friends, by many or by few.</q>
             <trailer>THE END.</trailer>
          </div>
          <div type="play">
-            <pb facs="tcp:020534_0087_0FAFE147F9EC00C0"/>
+            <pb facs="unknown:020534_0087_0FAFE147F9EC00C0"/>
             <div type="dramatis_personae">
                <list>
                   <head>PERSONS OF THE DRAMA.</head>
@@ -3147,7 +3148,7 @@ It boots not, friends, by many or by few.</q>
                <p>☞The Subject of this Drama is taken from the Fifth Chapter of the Prophet DANIEL.</p>
             </div>
             <div n="1" type="part">
-               <pb n="90" facs="tcp:020534_0088_0FAFE148B9601088"/>
+               <pb n="90" facs="unknown:020534_0088_0FAFE148B9601088"/>
                <head>BELSHAZZLAR: A SACRED DRAMA. PART I.</head>
                <epigraph>
                   <q>
@@ -3170,7 +3171,7 @@ It boots not, friends, by many or by few.</q>
                      </gap> Noah from the flood,</l>
                   <l>The whelming flood, the grave of human kind!</l>
                   <l>
-                     <pb n="91" facs="tcp:020534_0089_0FAFE1497966E688"/>Oh Thou! whoſe guardian care, and out-ſtretch'd hand,</l>
+                     <pb n="91" facs="unknown:020534_0089_0FAFE1497966E688"/>Oh Thou! whoſe guardian care, and out-ſtretch'd hand,</l>
                   <l>Reſcu'd young Iſaac from the lifted arm,</l>
                   <l>Rais'd, at thy bidding, to devote a ſon,</l>
                   <l>An only ſon, doom'd by his ſire to die.</l>
@@ -3208,7 +3209,7 @@ It boots not, friends, by many or by few.</q>
                   </lg>
                   <lg n="3">
                      <head>
-                        <pb n="92" facs="tcp:020534_0090_0FAFE14A43761FA8"/>III.</head>
+                        <pb n="92" facs="unknown:020534_0090_0FAFE14A43761FA8"/>III.</head>
                      <l>What all-controuling hand had force</l>
                      <l>To ſtop eternal Nature's conſtant courſe?</l>
                      <l>The wand'ring moon to one fix'd ſpot confine,</l>
@@ -3246,7 +3247,7 @@ It boots not, friends, by many or by few.</q>
                      <l>Between the Cherubim his glory ſtood,</l>
                      <l>While the high-prieſt alone the dazzling ſplendor view'd.</l>
                      <l>
-                        <pb n="93" facs="tcp:020534_0091_0FAFE14BCD3243F0"/>How fondly did the Tyrian artiſt ſtrive,</l>
+                        <pb n="93" facs="unknown:020534_0091_0FAFE14BCD3243F0"/>How fondly did the Tyrian artiſt ſtrive,</l>
                      <l>His name to lateſt time ſhould live!</l>
                      <l>Such wealth the ſtranger wonder'd to behold:</l>
                      <l>Gold were the tablets, and the vaſes gold.</l>
@@ -3284,7 +3285,7 @@ It boots not, friends, by many or by few.</q>
                      <l>Of Babylon, where deitles obſcene</l>
                      <l>Inſult the living GOD; and to his ſervants,</l>
                      <l>
-                        <pb n="94" facs="tcp:020534_0092_0FAFE14C793B36F0"/>The prieſts of wretched idols, made with hands,</l>
+                        <pb n="94" facs="unknown:020534_0092_0FAFE14C793B36F0"/>The prieſts of wretched idols, made with hands,</l>
                      <l>Shew contumelious ſcorn.</l>
                   </lg>
                </sp>
@@ -3330,7 +3331,7 @@ It boots not, friends, by many or by few.</q>
                   <l>For who can view Euphrates' pleaſant ſtream,</l>
                   <l>Its drooping willows, and its verdant banks,</l>
                   <l>
-                     <pb n="95" facs="tcp:020534_0093_0FAFE14D40E91BC8"/>And not to wounded memory recal</l>
+                     <pb n="95" facs="unknown:020534_0093_0FAFE14D40E91BC8"/>And not to wounded memory recal</l>
                   <l>The piny groves of fertile Palaeſtine,</l>
                   <l>The vales of Solyma, and Jordan's ſtream?</l>
                </sp>
@@ -3372,7 +3373,7 @@ It boots not, friends, by many or by few.</q>
                         <hi>Nebuchandnezzar.</hi>
                      </note>, who ſubdued Jeholachin,</l>
                   <l>
-                     <pb n="96" facs="tcp:020534_0094_0FAFE14E0591C030"/>And Hither brought ſad Judah's captive tribes;</l>
+                     <pb n="96" facs="unknown:020534_0094_0FAFE14E0591C030"/>And Hither brought ſad Judah's captive tribes;</l>
                   <l>Together with the rich and ſacred relies</l>
                   <l>Of our fam'd temple; all the holy treaſure,</l>
                   <l>The golden vaſes, and the ſacred cups,</l>
@@ -3413,7 +3414,7 @@ It boots not, friends, by many or by few.</q>
                   <l>And ſink th' impriſon'd ſpirit in brute.</l>
                </sp>
                <sp>
-                  <pb n="97" facs="tcp:020534_0095_0FAFE14EC4AD0198"/>
+                  <pb n="97" facs="unknown:020534_0095_0FAFE14EC4AD0198"/>
                   <speaker>DANIEL.</speaker>
                   <l>Twice <note n="*" place="bottom">
                         <hi>Daniel, chap.</hi> ii. <hi>and</hi> iv.</note>, by the ſpirit of GOD, did I expound</l>
@@ -3452,7 +3453,7 @@ It boots not, friends, by many or by few.</q>
                         <desc>〈◊〉</desc>
                      </gap> ſoul,</l>
                   <l>
-                     <pb n="98" facs="tcp:020534_0096_0FAFE14F7B6A7300"/>Of his progenitor: for Pleaſure's ſlave,</l>
+                     <pb n="98" facs="unknown:020534_0096_0FAFE14F7B6A7300"/>Of his progenitor: for Pleaſure's ſlave,</l>
                   <l>Though bound in flow'ry fetters, ſilky-ſoft,</l>
                   <l>Is more ſubdued, than is the caſual victim</l>
                   <l>Of furious rage, and violent ambition.</l>
@@ -3489,7 +3490,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Whoſe impious flatt'ries ſooth his monſtrous crimes:</l>
                   <l>They, juſtify this vices, and extol</l>
                   <l>
-                     <pb n="99" facs="tcp:020534_0097_0FAFE150407DA7F8"/>His boaſtful phraſe, as if he were ſome god.</l>
+                     <pb n="99" facs="unknown:020534_0097_0FAFE150407DA7F8"/>His boaſtful phraſe, as if he were ſome god.</l>
                   <l>Whate'er he ſays, they ſay; what he commands,</l>
                   <l>Implicitly they do; they echo back</l>
                   <l>His blaſphemies, with ſhouts of loud acclaim;</l>
@@ -3526,7 +3527,7 @@ It boots not, friends, by many or by few.</q>
                   <l>That ſound proclaims the banquet is begun.</l>
                </sp>
                <sp>
-                  <pb n="100" facs="tcp:020534_0098_0FAFE57C47CD2588"/>
+                  <pb n="100" facs="unknown:020534_0098_0FAFE57C47CD2588"/>
                   <speaker>
                      <hi>Second</hi> JEW.</speaker>
                   <l>Hark! the licentious uproar grows more loud.</l>
@@ -3565,7 +3566,7 @@ It boots not, friends, by many or by few.</q>
                   <l>How ſhall ſhe ſhould her glories in the dark,</l>
                   <l>And in opprobrious ſilence hide her head!</l>
                   <l>
-                     <pb n="101" facs="tcp:020534_0099_0FAFE57D23504880"/>Lament, O virgin daughter of Chaldea!</l>
+                     <pb n="101" facs="unknown:020534_0099_0FAFE57D23504880"/>Lament, O virgin daughter of Chaldea!</l>
                   <l>For thou ſhalt fall, imperial queen! ſhalt fall!</l>
                   <l>No more Sidonian robes ſhall grace they limbs.</l>
                   <l>To purple garments, ſackcloth ſhall ſucceed;</l>
@@ -3591,7 +3592,7 @@ It boots not, friends, by many or by few.</q>
                </sp>
             </div>
             <div n="2" type="part">
-               <pb n="102" facs="tcp:020534_0100_0FAFE57DCAA2D2F8"/>
+               <pb n="102" facs="unknown:020534_0100_0FAFE57DCAA2D2F8"/>
                <head>BELSHAZZAR. PART II.</head>
                <stage>
                   <hi>SCENE,</hi> The Court of <hi>BELSHAZZAR.</hi> The King ſated on a magnificent throne. Princes, Nobles and Attendants. Ladies of the Court. Muſic—A ſupberb Banquet.</stage>
@@ -3618,7 +3619,7 @@ It boots not, friends, by many or by few.</q>
                   <l>The humbleſt creatures of imperial power,</l>
                   <l>Behold a thouſand nobles bend before thee!</l>
                   <l>
-                     <pb n="103" facs="tcp:020534_0101_0FAFE57E857F8820"/>Princes far fam'd, and dames of high deſcent:</l>
+                     <pb n="103" facs="unknown:020534_0101_0FAFE57E857F8820"/>Princes far fam'd, and dames of high deſcent:</l>
                   <l>Yet all this pride of wealth, this boaſt of beauty,</l>
                   <l>Shrinks into nought before thine awful eye;</l>
                   <l>And lives, or dies, as the king frowns, or ſmiles!</l>
@@ -3658,7 +3659,7 @@ It boots not, friends, by many or by few.</q>
                   <l>If there be Gods, they meant we ſhou'd be happy;</l>
                   <l>Why give us elſe theſe appetites to be ſo?</l>
                   <l>
-                     <pb n="104" facs="tcp:020534_0102_0FAFE57F44A456D8"/>And why, the means to crown them with indulgence!</l>
+                     <pb n="104" facs="unknown:020534_0102_0FAFE57F44A456D8"/>And why, the means to crown them with indulgence!</l>
                   <l>To burſt the feeble bonds, which hold the vulgar,</l>
                   <l>Is noble daring.</l>
                </sp>
@@ -3700,7 +3701,7 @@ It boots not, friends, by many or by few.</q>
                </sp>
                <stage>[Countiers kneel, and drink.</stage>
                <sp>
-                  <pb n="105" facs="tcp:020534_0103_0FAFE58005500FC8"/>
+                  <pb n="105" facs="unknown:020534_0103_0FAFE58005500FC8"/>
                   <speaker>
                      <hi>Firſt</hi> COURTIER.</speaker>
                   <l>Here's to the king!</l>
@@ -3737,7 +3738,7 @@ It boots not, friends, by many or by few.</q>
                   <l>The luſt of pow'r ſhall lord it uncontroul'd,</l>
                   <l>When all the gen'rous feelings grow obtuſe,</l>
                   <l>
-                     <pb n="106" facs="tcp:020534_0104_0FAFE580C49EF7D8"/>And ſtern dominion holds, with rigid hand,</l>
+                     <pb n="106" facs="unknown:020534_0104_0FAFE580C49EF7D8"/>And ſtern dominion holds, with rigid hand,</l>
                   <l>His iron rein, and ſits and ſways alone.</l>
                   <l>But youth is Pleaſure's hour!</l>
                </sp>
@@ -3774,7 +3775,7 @@ It boots not, friends, by many or by few.</q>
                   <l>In vain ſhall Perſian Cyrus dare</l>
                   <l>With great Belſhazzar unequal war:</l>
                   <l>
-                     <pb n="107" facs="tcp:020534_0105_0FAFE5818538B350"/>In vain Darius ſhall combine,</l>
+                     <pb n="107" facs="unknown:020534_0105_0FAFE5818538B350"/>In vain Darius ſhall combine,</l>
                   <l>Darius, leader of the Median line;</l>
                   <l>While <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -3844,7 +3845,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Great Belſhazzar, like a god,</l>
                   <l>Rules the nations with a nod!</l>
                   <l>
-                     <pb n="108" facs="tcp:020534_0106_0FAFE582437FCC38"/>To great Belſhazzar be, the goblet crown'd!</l>
+                     <pb n="108" facs="unknown:020534_0106_0FAFE582437FCC38"/>To great Belſhazzar be, the goblet crown'd!</l>
                   <l>Belſhazzar's name the echoing roofs rebound!</l>
                </sp>
                <sp>
@@ -3886,7 +3887,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Hold—enough!</l>
                   <l>Thou haſtrous'd a thought; by Heav'n I will enjoy it;</l>
                   <l>
-                     <pb n="109" facs="tcp:020534_0107_0FAFE58304149610"/>A glorious thought! which will exalt rapture</l>
+                     <pb n="109" facs="unknown:020534_0107_0FAFE58304149610"/>A glorious thought! which will exalt rapture</l>
                   <l>The pleaſures of the banquet, and beſtow</l>
                   <l>A yet unraſted reliſh of delight.</l>
                </sp>
@@ -3934,7 +3935,7 @@ It boots not, friends, by many or by few.</q>
                   <l>The Jews, with ſuperſtitious awe, behold</l>
                   <l>Theſe ſacred ſymbols of their ancient faith:</l>
                   <l>
-                     <pb n="110" facs="tcp:020534_0108_0FAFE583C3903B40"/>Nor has captivity abated ought</l>
+                     <pb n="110" facs="unknown:020534_0108_0FAFE583C3903B40"/>Nor has captivity abated ought</l>
                   <l>The rev'rend love they bear theſe holy reliques.</l>
                   <l>Tho' we deride their law, and ſcorn their perſons,</l>
                   <l>Yet never have we yet to human uſe</l>
@@ -3978,7 +3979,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Than the cold ſhrine of an unheeding God.</l>
                </sp>
                <sp>
-                  <pb n="111" facs="tcp:020534_0109_0FAFE58567BA5960"/>
+                  <pb n="111" facs="unknown:020534_0109_0FAFE58567BA5960"/>
                   <speaker>BELSHAZZAR.</speaker>
                   <l>Fill me that maſſy goblet to the brim.</l>
                   <l>Now, Abraham! let thy wretched race expect</l>
@@ -4021,7 +4022,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Ye myſtic words!</l>
                   <l>Thou ſemblance of an hand! illuſive forms!</l>
                   <l>
-                     <pb n="112" facs="tcp:020534_0110_0FAFE5860F5C24E8"/>Ye dire fantaſtic images, what are ye?</l>
+                     <pb n="112" facs="unknown:020534_0110_0FAFE5860F5C24E8"/>Ye dire fantaſtic images, what are ye?</l>
                   <l>Dread ſhadows, ſpeak! Explain your horrible meanings!</l>
                   <l>Ye will not anſwer me.—Yes, yes, I feel</l>
                   <l>I am a mortal now—My failing limbs</l>
@@ -4062,7 +4063,7 @@ It boots not, friends, by many or by few.</q>
                   <l>I ſee the writing, but the viewleſs writer,</l>
                   <l>Who, what is he? Oh, horror! horror! horror!</l>
                   <l>
-                     <pb n="113" facs="tcp:020534_0111_0FAFE586C3C485F8"/>It cannot be the GOD of theſe poor Jews;</l>
+                     <pb n="113" facs="unknown:020534_0111_0FAFE586C3C485F8"/>It cannot be the GOD of theſe poor Jews;</l>
                   <l>For what is He, that he can thus afflict?</l>
                </sp>
                <sp>
@@ -4102,7 +4103,7 @@ It boots not, friends, by many or by few.</q>
                   <l>And hold deep commerce with the unſeen world.</l>
                </sp>
                <stage>
-                  <pb n="114" facs="tcp:020534_0112_0FAFE587898E9C08"/>
+                  <pb n="114" facs="unknown:020534_0112_0FAFE587898E9C08"/>
                   <hi>Enter</hi> ASTROLOGERS, MAGICIANS, <hi>&amp;c &amp;c.</hi>
                </stage>
                <sp>
@@ -4143,7 +4144,7 @@ It boots not, friends, by many or by few.</q>
                   <l>What, dumb! all dumb! where is your boaſted ſkill;</l>
                   <stage>[They confer together.</stage>
                   <l>
-                     <pb n="115" facs="tcp:020534_0113_0FAFE58845400E20"/>Keep them aſunder—No confed'racy—</l>
+                     <pb n="115" facs="unknown:020534_0113_0FAFE58845400E20"/>Keep them aſunder—No confed'racy—</l>
                   <l>No ſecret plots to make your tales agree.</l>
                   <l>Speak, ſlaves, and dare to let the know the worſt!</l>
                </sp>
@@ -4187,7 +4188,7 @@ It boots not, friends, by many or by few.</q>
                   <l>O my miſguided ſon!</l>
                   <l>Well may'ſt thou wonder to behold me here:</l>
                   <l>
-                     <pb n="116" facs="tcp:020534_0114_0FAFE5890542F068"/>For I have ever ſhunn'd this ſcene of riot,</l>
+                     <pb n="116" facs="unknown:020534_0114_0FAFE5890542F068"/>For I have ever ſhunn'd this ſcene of riot,</l>
                   <l>Where wild Intemperance and diſhonour'd Mirth</l>
                   <l>Hold feſtival impure. Yet, O Belſhazzar!</l>
                   <l>I cou'd not hear the wonders which befel,</l>
@@ -4223,7 +4224,7 @@ It boots not, friends, by many or by few.</q>
                   <l>And palpable to ſenſe. He twice explain'd</l>
                   <l>The monarch's myſtic dream. The holy ſeer</l>
                   <l>
-                     <pb n="117" facs="tcp:020534_0115_0FAFE589C69C0828"/>Saw, with prophetic ſpirit, what befel</l>
+                     <pb n="117" facs="unknown:020534_0115_0FAFE589C69C0828"/>Saw, with prophetic ſpirit, what befel</l>
                   <l>The king long after. For his wond'rous ſkill</l>
                   <l>He was rewarded, honour'd, and careſs'd,</l>
                   <l>And with the rulers of Chaldea rank'd:</l>
@@ -4263,7 +4264,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Againſt a king's requeſt, a ſuppliant king!</l>
                </sp>
                <sp>
-                  <pb n="118" facs="tcp:020534_0116_0FAFE58A84008170"/>
+                  <pb n="118" facs="unknown:020534_0116_0FAFE58A84008170"/>
                   <speaker>DANIEL.</speaker>
                   <l>The GOD I worſhip teaches to forgive.</l>
                </sp>
@@ -4302,7 +4303,7 @@ It boots not, friends, by many or by few.</q>
                   <l>And let thy high rewards on others fall.</l>
                   <l>The pricely enſign, nor the ſcarlet robe,</l>
                   <l>
-                     <pb n="119" facs="tcp:020534_0117_0FAFE58B44BA4BF0"/>Nor yet to be the third within thy realm,</l>
+                     <pb n="119" facs="unknown:020534_0117_0FAFE58B44BA4BF0"/>Nor yet to be the third within thy realm,</l>
                   <l>Can touch the ſoul of Daniel. Honour, fame,</l>
                   <l>All that the world calls great, thy crown itſelf,</l>
                   <l>Cou'd never ſatisfy the vaſt ambition</l>
@@ -4342,7 +4343,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Oh! dangerous pinnacle of pow'r ſupreme!</l>
                   <l>Who can ſtand ſafe upon its treach'rous top,</l>
                   <l>
-                     <pb n="120" facs="tcp:020534_0118_0FAFE58C04287018"/>Behold the gazing proſtrate world below,</l>
+                     <pb n="120" facs="unknown:020534_0118_0FAFE58C04287018"/>Behold the gazing proſtrate world below,</l>
                   <l>Whom depth and diſtance into pigmies ſhrink,</l>
                   <l>And not grow giddy? Babylon's great king</l>
                   <l>Forgot he was a man, a helpleſs man,</l>
@@ -4379,7 +4380,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Nay, to bold thoughts, haſt added deeds more bold.</l>
                   <l>Thou haſt out-wrought the pattern he bequeath'd thee,</l>
                   <l>
-                     <pb n="121" facs="tcp:020534_0119_0FAFE58CC7043420"/>And quite outgone example; haſt prophan'd,</l>
+                     <pb n="121" facs="unknown:020534_0119_0FAFE58CC7043420"/>And quite outgone example; haſt prophan'd,</l>
                   <l>With impious hand, the veſſels of the Temple:</l>
                   <l>Thoſe veſſels, ſanctified to holieſt uſe,</l>
                   <l>Thou haſt polluted with unhallow'd lips,</l>
@@ -4428,7 +4429,7 @@ It boots not, friends, by many or by few.</q>
                   </l>
                </sp>
                <sp>
-                  <pb n="122" facs="tcp:020534_0120_0FAFE58D876B1FC8"/>
+                  <pb n="122" facs="unknown:020534_0120_0FAFE58D876B1FC8"/>
                   <speaker>BELSHAZZAR.</speaker>
                   <stage>[He ſtarts up.</stage>
                   <l>Prophet, when ſhall this be?</l>
@@ -4472,7 +4473,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Stay, Prophet, and receive thy promis'd gift:</l>
                   <l>The ſcarlet robe, and princely chain, are thine:</l>
                   <l>
-                     <pb n="123" facs="tcp:020534_0121_0FAFE58E47179128"/>And let my heralds publiſh through the land,</l>
+                     <pb n="123" facs="unknown:020534_0121_0FAFE58E47179128"/>And let my heralds publiſh through the land,</l>
                   <l>That Daniel ſtands, in dignity and pow'r,</l>
                   <l>The third in Babylon. Theſe juſt rewards</l>
                   <l>Thou well may'ſt claim, though ſad thy prophecy!</l>
@@ -4510,7 +4511,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Ha! Princes! hope breaks in!—This may not be!</l>
                </sp>
                <sp>
-                  <pb n="124" facs="tcp:020534_0122_0FAFE58F068C0298"/>
+                  <pb n="124" facs="unknown:020534_0122_0FAFE58F068C0298"/>
                   <speaker>
                      <hi>Fiſt</hi> COURTIER.</speaker>
                   <l>Perhaps this Daniel is in league with Perſia;</l>
@@ -4554,7 +4555,7 @@ It boots not, friends, by many or by few.</q>
                </sp>
                <stage>As they are going to reſume their places at the banquet, a dreadful uproar is beard, tumultuous cries, and war<g ref="char:EOLhyphen"/>like ſounds. All ſtand terrified. Enter ſoldier with their ſwords drawn, and wounded.</stage>
                <sp>
-                  <pb n="125" facs="tcp:020534_0123_0FAFE58FC407C0E8"/>
+                  <pb n="125" facs="unknown:020534_0123_0FAFE58FC407C0E8"/>
                   <speaker>SOLDIER.</speaker>
                   <l>Oh, helpleſs Babylon! Oh, wretched king!</l>
                   <l>Chaldea is no more, the Mede has conquer'd!</l>
@@ -4595,7 +4596,7 @@ It boots not, friends, by many or by few.</q>
                   <l>What noiſe is that?</l>
                </sp>
                <sp>
-                  <pb n="126" facs="tcp:020534_0124_0FAFE59139C67378"/>
+                  <pb n="126" facs="unknown:020534_0124_0FAFE59139C67378"/>
                   <speaker>
                      <hi>Fiſt</hi> JEW.</speaker>
                   <l>Hark! 'Tis Belſhazzar's voice!</l>
@@ -4637,7 +4638,7 @@ It boots not, friends, by many or by few.</q>
                </sp>
             </div>
             <div n="3" type="part">
-               <pb n="127" facs="tcp:020534_0125_0FAFE5914FB82F68"/>
+               <pb n="127" facs="unknown:020534_0125_0FAFE5914FB82F68"/>
                <head>BELSHAZZAR. Part III.</head>
                <stage>
                   <hi>Enter</hi> DANIEL and JEWS.</stage>
@@ -4661,7 +4662,7 @@ It boots not, friends, by many or by few.</q>
                   <l>So fell beneath the terrors of thy name</l>
                   <l>The idol Chemoſh, Moab's e empty truſt;</l>
                   <l>
-                     <pb n="128" facs="tcp:020534_0126_0FAFE5925C413720"/>So Ammonitiſh Moloch ſunk before thee;</l>
+                     <pb n="128" facs="unknown:020534_0126_0FAFE5925C413720"/>So Ammonitiſh Moloch ſunk before thee;</l>
                   <l>So fell Philiſtine Dagon: ſo ſhall fall,</l>
                   <l>To time's remoteſt period, all thy foes!</l>
                </sp>
@@ -4699,7 +4700,7 @@ It boots not, friends, by many or by few.</q>
                   <l>You ſhall behold the ſecond <note n="*" place="bottom">
                         <hi>Ezra, chap.</hi> i.</note> temple riſe,</l>
                   <l>
-                     <pb n="129" facs="tcp:020534_0127_0FAFE592C9A2FEC8"/>With grateful ecſtacy: but we, your ſires,</l>
+                     <pb n="129" facs="unknown:020534_0127_0FAFE592C9A2FEC8"/>With grateful ecſtacy: but we, your ſires,</l>
                   <l>Now bent with hoary age; we, whoſe charm'd eyes</l>
                   <l>Beheld the matchleſs glories of the firſt,</l>
                   <l>Shou'd weep, rememb'ring what we once had ſeen,</l>
@@ -4740,7 +4741,7 @@ It boots not, friends, by many or by few.</q>
                   <l>That virtue in ſequeſter'd <hi>ſolitude</hi>
                   </l>
                   <l>
-                     <pb n="130" facs="tcp:020534_0128_0FAFE5938A12B088"/>Is always found. Within the inmoſt ſoul</l>
+                     <pb n="130" facs="unknown:020534_0128_0FAFE5938A12B088"/>Is always found. Within the inmoſt ſoul</l>
                   <l>The hidden tempter lurks; nor leſs betrays.</l>
                   <l>In the ſtill, ſeeming ſafety of retreat,</l>
                   <l>Than where the treach'rous world deluſive ſmiles.</l>
@@ -4779,7 +4780,7 @@ It boots not, friends, by many or by few.</q>
             <trailer>THE END</trailer>
          </div>
          <div type="play">
-            <pb facs="tcp:020534_0129_0FAFE5944AF976A8"/>
+            <pb facs="unknown:020534_0129_0FAFE5944AF976A8"/>
             <div type="dramatis_personae">
                <list>
                   <head>PERSONS OF THE DRAMA.</head>
@@ -4797,7 +4798,7 @@ It boots not, friends, by many or by few.</q>
                <p>☞The Subject of this drama is taken from the Sixth Chapter of the Book of the Prophet DANIEL.</p>
             </div>
             <div n="1" type="part">
-               <pb n="132" facs="tcp:020534_0130_0FAFE5950602DD38"/>
+               <pb n="132" facs="unknown:020534_0130_0FAFE5950602DD38"/>
                <head>DANIEL: A SACRED DRAMA. PART I.</head>
                <epigraph>
                   <q>The Righteous is delivered out of trouble, and the Wicked cometh in his ſtead.—<bibl>PROVERBS of SOLOMON.</bibl>
@@ -4830,7 +4831,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Which move this mighty empire! High he ſits,</l>
                   <l>Supreme in favour both with prince and people!</l>
                   <l>
-                     <pb n="133" facs="tcp:020534_0131_0FAFE595C6E0AA78"/>Where is the ſpirit of our Median lords,</l>
+                     <pb n="133" facs="unknown:020534_0131_0FAFE595C6E0AA78"/>Where is the ſpirit of our Median lords,</l>
                   <l>Tamely to crouch and bend the ſupple knee</l>
                   <l>To this new god? By Mithras, 'tis too much!</l>
                   <l>Shall great Arbaces' race to Daniel bow?</l>
@@ -4866,7 +4867,7 @@ It boots not, friends, by many or by few.</q>
                   <l>And down the unſubſtantial fabric falls!</l>
                   <l>Darius, juſt and clement as he is,</l>
                   <l>
-                     <pb n="134" facs="tcp:020534_0132_0FAFE59683E68900"/>If I miſtake not, may be wrought upon</l>
+                     <pb n="134" facs="unknown:020534_0132_0FAFE59683E68900"/>If I miſtake not, may be wrought upon</l>
                   <l>By prudent wiles, by Flattery's pleaſant cup,</l>
                   <l>Adminiſter'd with caution.</l>
                </sp>
@@ -4903,7 +4904,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Who ſo renown'd as Daniel? Of his law</l>
                   <l>Obſervant in th' extreme. Thrice ev'ry day,</l>
                   <l>
-                     <pb n="135" facs="tcp:020534_0133_0FAFE597458577A8"/>With proſtrate rev'rence, he adores his God:</l>
+                     <pb n="135" facs="unknown:020534_0133_0FAFE597458577A8"/>With proſtrate rev'rence, he adores his God:</l>
                   <l>With ſuperſtitious awe his face he turns</l>
                   <l>Tow'rds his belov'd Jeruſalem; as if</l>
                   <l>Some local, partial God might there be found</l>
@@ -4944,7 +4945,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Who ſhall be truſted?</l>
                </sp>
                <sp>
-                  <pb n="136" facs="tcp:020534_0134_0FAFE5980491B168"/>
+                  <pb n="136" facs="unknown:020534_0134_0FAFE5980491B168"/>
                   <speaker>PHARNACES.</speaker>
                   <l>With our immediate motive, none, except</l>
                   <l>A choſen band of friends, who moſt repine</l>
@@ -4980,7 +4981,7 @@ It boots not, friends, by many or by few.</q>
                </sp>
             </div>
             <div n="2" type="part">
-               <pb n="137" facs="tcp:020534_0135_0FAFE598C51E0348"/>
+               <pb n="137" facs="unknown:020534_0135_0FAFE598C51E0348"/>
                <head>DANIEL. PART II.</head>
                <stage>SCENE, DANIEL'S Houſe.</stage>
                <stage>DANIEL, ARASPES.</stage>
@@ -5002,7 +5003,7 @@ It boots not, friends, by many or by few.</q>
                   <l>But not enough to ſoothe the curious pride</l>
                   <l>Of vain philoſophy! Were all reveal'd</l>
                   <l>
-                     <pb n="138" facs="tcp:020534_0136_0FAFE59985610788"/>Hope wou'd have then no object, GOD no fear,</l>
+                     <pb n="138" facs="unknown:020534_0136_0FAFE59985610788"/>Hope wou'd have then no object, GOD no fear,</l>
                   <l>And faith no exerciſe! Enough to cheer</l>
                   <l>Our path we ſee, the reſt is hid in clouds;</l>
                   <l>And Heav'n's own ſhadows reſt upon the view!</l>
@@ -5038,7 +5039,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Of holy Prophets, who, by conquering Faith,</l>
                   <l>Wrought deeds incredible to mortal ſenſe;</l>
                   <l>
-                     <pb n="139" facs="tcp:020534_0137_0FAFE59A44A86DB8"/>Vanquiſh'd contending kingdoms, quell'd the rage</l>
+                     <pb n="139" facs="unknown:020534_0137_0FAFE59A44A86DB8"/>Vanquiſh'd contending kingdoms, quell'd the rage</l>
                   <l>Of furious peſtilence, extinguiſh'd fire?</l>
                   <l>Victorious Faith! others by thee endur'd</l>
                   <l>Exile, diſgrace, captivity, and death!</l>
@@ -5071,7 +5072,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Defilement cannot touch, nor ſin pollute</l>
                   <l>Her unſtain'd purity! Not Ophir's gold,</l>
                   <l>
-                     <pb n="140" facs="tcp:020534_0138_0FAFE59B0474AFA0"/>Nor Ethiopia's gems can match her price!</l>
+                     <pb n="140" facs="unknown:020534_0138_0FAFE59B0474AFA0"/>Nor Ethiopia's gems can match her price!</l>
                   <l>The diamond of the mine is pale before her!</l>
                   <l>And, like the oil Eliſha's bounty bleſs'd,</l>
                   <l>She is a treaſure which doth grow by uſe,</l>
@@ -5110,7 +5111,7 @@ It boots not, friends, by many or by few.</q>
                   <l>And nipp'd by cruel ſorrow's biting blaſt?</l>
                   <l>Explain, O Daniel! theſe myſterious ways,</l>
                   <l>
-                     <pb n="141" facs="tcp:020534_0139_0FAFE59BC490F5E8"/>To my faint apprehenſion! For as yet</l>
+                     <pb n="141" facs="unknown:020534_0139_0FAFE59BC490F5E8"/>To my faint apprehenſion! For as yet</l>
                   <l>I've much to learn. Fair Truth's immortal ſun</l>
                   <l>Is ſometimes hid in clouds; not that her light</l>
                   <l>Is in itſelf defective; but obſcur'd</l>
@@ -5134,7 +5135,7 @@ It boots not, friends, by many or by few.</q>
                </sp>
             </div>
             <div n="3" type="part">
-               <pb n="142" facs="tcp:020534_0140_0FAFE59D47F4C9F8"/>
+               <pb n="142" facs="unknown:020534_0140_0FAFE59D47F4C9F8"/>
                <head>DANIEL. PART III.</head>
                <stage>DARIUS <hi>on his throne.</hi> PHARNACES, SO<g ref="char:EOLhyphen"/>RANUS, PRINCES, PRESIDENTS, <hi>and</hi> COURTIERS.</stage>
                <sp>
@@ -5153,7 +5154,7 @@ It boots not, friends, by many or by few.</q>
                   <l>And raiſe the injur'd? to aſſiſt th' oppreſs'd,</l>
                   <l>And humble the oppreſſor? If you know,</l>
                   <l>
-                     <pb n="143" facs="tcp:020534_0141_0FAFE59F45903990"/>Speak freely, princes! Wherefore am I king,</l>
+                     <pb n="143" facs="unknown:020534_0141_0FAFE59F45903990"/>Speak freely, princes! Wherefore am I king,</l>
                   <l>Except to poiſe the awful ſcale of juſtice</l>
                   <l>With even hand; to miniſter to want,</l>
                   <l>To bleſs the nations with a lib'ral rule,</l>
@@ -5189,7 +5190,7 @@ It boots not, friends, by many or by few.</q>
                   <l>The brighteſt gem that gliſtens in my crown,</l>
                </sp>
                <sp>
-                  <pb n="144" facs="tcp:020534_0142_0FAFE59F83AAA8E0"/>
+                  <pb n="144" facs="unknown:020534_0142_0FAFE59F83AAA8E0"/>
                   <speaker>DANIEL:</speaker>
                   <l>Sage Daniel. If my ſpeech have ought of worth,</l>
                   <l>Or if my life with ought of good be grac'd,</l>
@@ -5231,7 +5232,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Thy preſidents, the governors who rule</l>
                   <l>Thy provinces, and I, thine humble creature</l>
                   <l>
-                     <pb n="145" facs="tcp:020534_0143_0FAFE5A046982FC8"/>(Leſs than the leaſt in merit, but in love,</l>
+                     <pb n="145" facs="unknown:020534_0143_0FAFE5A046982FC8"/>(Leſs than the leaſt in merit, but in love,</l>
                   <l>In zeal, and duty, equal with the firſt;)</l>
                   <l>We have devis'd a meaſure to confirm</l>
                   <l>Thy infant empire; to eſtabliſh here</l>
@@ -5266,7 +5267,7 @@ It boots not, friends, by many or by few.</q>
                   <l>But ſay what remedy?</l>
                </sp>
                <sp>
-                  <pb n="146" facs="tcp:020534_0144_0FAFE5A10492DA48"/>
+                  <pb n="146" facs="unknown:020534_0144_0FAFE5A10492DA48"/>
                   <speaker>PHARNACES.</speaker>
                   <l>That too, O king!</l>
                   <l>Thy ſervants have provided. Hitherto</l>
@@ -5306,7 +5307,7 @@ It boots not, friends, by many or by few.</q>
                   <l>'Twill fix the crown</l>
                   <l>With laſting ſafety on thy royal brow;</l>
                   <l>
-                     <pb n="147" facs="tcp:020534_0145_0FAFE5A1C79859E8"/>And by a bloodleſs means preſerve th' obedience</l>
+                     <pb n="147" facs="unknown:020534_0145_0FAFE5A1C79859E8"/>And by a bloodleſs means preſerve th' obedience</l>
                   <l>Of this new empire. Think how much 'twill raiſe</l>
                   <l>Thy high renown! 'Twill make thy name rever'd,</l>
                   <l>And popular beyond example. What!</l>
@@ -5346,7 +5347,7 @@ It boots not, friends, by many or by few.</q>
                   <l>Tranſgreſs our mandate?</l>
                </sp>
                <sp>
-                  <pb n="148" facs="tcp:020534_0146_0FAFE5A39AE70620"/>
+                  <pb n="148" facs="unknown:020534_0146_0FAFE5A39AE70620"/>
                   <speaker>PHARNACES.</speaker>
                   <l>Inſtant death, O king!</l>
                   <p>This ſtatute ſays, <q>Should any ſubject dare
@@ -5389,7 +5390,7 @@ Of hungry lions!</q>
                   <l>It had been paſt repeal! Sage Daniel too!</l>
                   <l>My counſellor, my venerable friend,</l>
                   <l>
-                     <pb n="149" facs="tcp:020534_0147_0FAFE5A3AA207838"/>He ſhou'd have been conſulted; for his wiſdom</l>
+                     <pb n="149" facs="unknown:020534_0147_0FAFE5A3AA207838"/>He ſhou'd have been conſulted; for his wiſdom</l>
                   <l>I ſtill have found oracular.</l>
                </sp>
                <sp>
@@ -5417,7 +5418,7 @@ Of hungry lions!</q>
                   <l>To ſnare thy precious life?</l>
                </sp>
                <sp>
-                  <pb n="150" facs="tcp:020534_0148_0FAFE5A404E6E9D0"/>
+                  <pb n="150" facs="unknown:020534_0148_0FAFE5A404E6E9D0"/>
                   <speaker>DANIEL:</speaker>
                   <l>How! was the king</l>
                   <l>Conſenting to this edict?</l>
@@ -5457,7 +5458,7 @@ Of hungry lions!</q>
                   <l>That no petition henceforth ſhall be made,</l>
                   <l>For thirty days, ſave only to the king;</l>
                   <l>
-                     <pb n="151" facs="tcp:020534_0149_0FAFE5A4C6B141C0"/>Nor pray'r nor interceſſion ſhall be heard</l>
+                     <pb n="151" facs="unknown:020534_0149_0FAFE5A4C6B141C0"/>Nor pray'r nor interceſſion ſhall be heard</l>
                   <l>Of any God, or man, but of Darius.</l>
                </sp>
                <sp>
@@ -5496,7 +5497,7 @@ Of hungry lions!</q>
                   <l>Oft have I heard thee ſay, the ſecret heart</l>
                   <l>Is fair Devotion's Temple; there the ſaint,</l>
                   <l>
-                     <pb n="152" facs="tcp:020534_0150_0FAFE5A5839E1A08"/>Ev'n on that living altar, lights the flame</l>
+                     <pb n="152" facs="unknown:020534_0150_0FAFE5A5839E1A08"/>Ev'n on that living altar, lights the flame</l>
                   <l>Of pureſt ſacrifice, which burns unſeen,</l>
                   <l>Not unaccepted.—I remember too,</l>
                   <l>When Syrian Naaman <note n="*" place="bottom">2. <hi>Kings, chap.</hi> v.</note>, by Eliſha's hand,</l>
@@ -5530,7 +5531,7 @@ Of hungry lions!</q>
                   <l>Of human wit, where GOD'S eternal name</l>
                   <l>Is put in competition! Shall his law</l>
                   <l>
-                     <pb n="153" facs="tcp:020534_0151_0FAFE5A644ACB378"/>Be ſet at nought, that I may live at eaſe?</l>
+                     <pb n="153" facs="unknown:020534_0151_0FAFE5A644ACB378"/>Be ſet at nought, that I may live at eaſe?</l>
                   <l>How would the heathen triumph, ſhould I fall</l>
                   <l>Thro' coward fear! How wou'd GOD'S enemies</l>
                   <l>Inſultingly blaſpheme!</l>
@@ -5574,7 +5575,7 @@ Of hungry lions!</q>
                </sp>
             </div>
             <div n="5" type="part">
-               <pb n="154" facs="tcp:020534_0152_0FAFE5A7046486E8"/>
+               <pb n="154" facs="unknown:020534_0152_0FAFE5A7046486E8"/>
                <head>DANIEL. PART V.</head>
                <stage>SCENE, The Palace.</stage>
                <stage>PHARNACES, SORANUS.</stage>
@@ -5594,7 +5595,7 @@ Of hungry lions!</q>
                   <l>When happen'd it, Pharnaces?</l>
                </sp>
                <sp>
-                  <pb n="155" facs="tcp:020534_0153_0FAFE5A7C5CCECA0"/>
+                  <pb n="155" facs="unknown:020534_0153_0FAFE5A7C5CCECA0"/>
                   <speaker>PHARNACES.</speaker>
                   <l>On the inſtant:</l>
                   <l>Scarce is the deed accompliſh'd. As he made</l>
@@ -5633,7 +5634,7 @@ Of hungry lions!</q>
                      </gap>arch! I have done a deed</l>
                </sp>
                <sp>
-                  <pb n="156" facs="tcp:020534_0154_0FAFE5A883A86AA8"/>
+                  <pb n="156" facs="unknown:020534_0154_0FAFE5A883A86AA8"/>
                   <speaker>DANIEL.</speaker>
                   <l>Will blot my honour, with eternal ſtain!</l>
                   <l>Pharnaces! O, thou hoary ſcycophant!</l>
@@ -5671,7 +5672,7 @@ Of hungry lions!</q>
                   <l>Go, and deviſe ſome means to ſet me free</l>
                   <l>From this dread load of guilt! Go, ſet at work</l>
                   <l>
-                     <pb n="157" facs="tcp:020534_0155_0FAFE5A94667FFD8"/>Thy plotting genius to redeem the life</l>
+                     <pb n="157" facs="unknown:020534_0155_0FAFE5A94667FFD8"/>Thy plotting genius to redeem the life</l>
                   <l>Of venerable Daniel!</l>
                </sp>
                <sp>
@@ -5718,7 +5719,7 @@ Of hungry lions!</q>
                </sp>
             </div>
             <div n="6" type="part">
-               <pb n="158" facs="tcp:020534_0156_0FAFE5AA07A6DCC0"/>
+               <pb n="158" facs="unknown:020534_0156_0FAFE5AA07A6DCC0"/>
                <head>DANIEL. PART VI.</head>
                <stage>SCENE, DANIEL'S Houſe.</stage>
                <stage>DANIEL ARASPES.</stage>
@@ -5736,7 +5737,7 @@ Of hungry lions!</q>
                   <l>And the bleſt haven of repoſe in view.</l>
                </sp>
                <sp>
-                  <pb n="159" facs="tcp:020534_0157_0FAFE5AAC55134C0"/>
+                  <pb n="159" facs="unknown:020534_0157_0FAFE5AAC55134C0"/>
                   <speaker>ARASPES.</speaker>
                   <l>And muſt I looſe thee, Daniel? muſt thou die?</l>
                </sp>
@@ -5772,7 +5773,7 @@ Of hungry lions!</q>
                   <l>Who wou'd not die, that he might line for ever!</l>
                </sp>
                <stage>
-                  <pb n="160" facs="tcp:020534_0158_0FAFE5AB83826060"/>DARIUS, DANIEL, ARASPES.</stage>
+                  <pb n="160" facs="unknown:020534_0158_0FAFE5AB83826060"/>DARIUS, DANIEL, ARASPES.</stage>
                <sp>
                   <speaker>DARIUS.</speaker>
                   <l>Where is he? Where is Daniel? Let me ſee him!</l>
@@ -5812,7 +5813,7 @@ Of hungry lions!</q>
                   <l>I know thy bent of ſoul is honourable:</l>
                   <l>Thou haſt been gracious ſtill! Had it been otherwiſe,</l>
                   <l>
-                     <pb n="161" facs="tcp:020534_0159_0FAFE5AC44274350"/>I wou'd have met th' appointment of high Heav'n</l>
+                     <pb n="161" facs="unknown:020534_0159_0FAFE5AC44274350"/>I wou'd have met th' appointment of high Heav'n</l>
                   <l>With humble acquieſcence; but to know,</l>
                   <l>Thy will concurr'd not with thy ſervant's fate,</l>
                   <l>Adds joy to resignation.</l>
@@ -5848,7 +5849,7 @@ Of hungry lions!</q>
                   <l>To have your beſt ſucceſs aſcrib'd to Fortune,</l>
                   <l>And Fortune's failures all aſcrib'd to you!</l>
                   <l>
-                     <pb n="162" facs="tcp:020534_0160_0FAFE5AD045C5928"/>It is to ſit upon a joyleſs height,</l>
+                     <pb n="162" facs="unknown:020534_0160_0FAFE5AD045C5928"/>It is to ſit upon a joyleſs height,</l>
                   <l>To every blaſt of changing fate expos'd!</l>
                   <l>Too high for hope! too great for happineſs!</l>
                   <l>For friendſhip too much fear'd! To all the joys</l>
@@ -5882,7 +5883,7 @@ Of hungry lions!</q>
                </sp>
             </div>
             <div n="7" type="part">
-               <pb n="163" facs="tcp:020534_0161_0FAFE5AE52284120"/>
+               <pb n="163" facs="unknown:020534_0161_0FAFE5AE52284120"/>
                <head>DANIEL. PART VII.</head>
                <stage>SCENE, The Court of the Palace. <hi>The ſun riſing.</hi>
                </stage>
@@ -5904,7 +5905,7 @@ Of hungry lions!</q>
                   <l>My ear, now dead to ev'ry note of joy!</l>
                </sp>
                <sp>
-                  <pb n="164" facs="tcp:020534_0162_0FAFE5AE832705A8"/>
+                  <pb n="164" facs="unknown:020534_0162_0FAFE5AE832705A8"/>
                   <speaker>ARASPES.</speaker>
                   <l>My grief can know no period!</l>
                </sp>
@@ -5948,7 +5949,7 @@ Of hungry lions!</q>
                   <l>To vindicate my innocence.</l>
                </sp>
                <sp>
-                  <pb n="165" facs="tcp:020534_0163_0FAFE5AF442BEEA0"/>
+                  <pb n="165" facs="unknown:020534_0163_0FAFE5AF442BEEA0"/>
                   <speaker>DARIUS.</speaker>
                   <l>He ſpeaks!</l>
                   <l>He lives!</l>
@@ -5989,7 +5990,7 @@ Of hungry lions!</q>
                   <l>Hail, great Darius!</l>
                </sp>
                <sp>
-                  <pb n="166" facs="tcp:020534_0164_0FAFE5B006013B40"/>
+                  <pb n="166" facs="unknown:020534_0164_0FAFE5B006013B40"/>
                   <speaker>DARIUS.</speaker>
                   <l>Doſt thou live indeed?</l>
                   <l>And live unhurt?</l>
@@ -6034,7 +6035,7 @@ Of hungry lions!</q>
                   <l>O ſpare the guiltleſs; ſpare the guilty too!</l>
                   <l>Where ſin is not, to puniſh were unjuſt;</l>
                   <l>
-                     <pb n="167" facs="tcp:020534_0165_0FAFE5B0C5160468"/>And where ſin is, O king! there fell remorſe</l>
+                     <pb n="167" facs="unknown:020534_0165_0FAFE5B0C5160468"/>And where ſin is, O king! there fell remorſe</l>
                   <l>Supplies the place of puniſhment!</l>
                </sp>
                <sp>
@@ -6073,7 +6074,7 @@ Of hungry lions!</q>
                   <l>Araſpes will not hear. "You heard not me,</l>
                   <l>He cries, when I for Daniel's life implor'd;</l>
                   <l>
-                     <pb n="168" facs="tcp:020534_0166_0FAFE5B187D94700"/>His God protected him! ſee now, if yours
+                     <pb n="168" facs="unknown:020534_0166_0FAFE5B187D94700"/>His God protected him! ſee now, if yours
 Will liſten to your cries?"</l>
                </sp>
                <sp>
@@ -6117,7 +6118,7 @@ Will liſten to your cries?"</l>
                      </gap>oes-be as Pharnaces is!</l>
                </sp>
                <sp>
-                  <pb n="169" facs="tcp:020534_0167_0FAFE5B247067258"/>
+                  <pb n="169" facs="unknown:020534_0167_0FAFE5B247067258"/>
                   <speaker>DARIUS.</speaker>
                   <l>Araſpes, ſpeak!</l>
                </sp>
@@ -6156,7 +6157,7 @@ Will liſten to your cries?"</l>
             <trailer>THE END.</trailer>
          </div>
          <div type="poem">
-            <pb n="170" facs="tcp:020534_0168_0FAFE5B304EEB9D0"/>
+            <pb n="170" facs="unknown:020534_0168_0FAFE5B304EEB9D0"/>
             <head>REFLECTIONS OF KING HEZEKIAH, IN HIS SICKNESS.</head>
             <epigraph>
                <q>Set thine houſe in order, for thou ſhalt die.</q>
@@ -6173,7 +6174,7 @@ Will liſten to your cries?"</l>
                <l>For the dull chambers of the darkſome grave?</l>
             </lg>
             <lg>
-               <pb n="171" facs="tcp:020534_0169_0FAFE5B3C4FCEE88"/>
+               <pb n="171" facs="unknown:020534_0169_0FAFE5B3C4FCEE88"/>
                <l>Have I conſider'd what it is to die?</l>
                <l>In native duſt with kindred worms to lie;</l>
                <l>To ſleep in cheerleſs cold neglect; to rot;</l>
@@ -6214,7 +6215,7 @@ Will liſten to your cries?"</l>
                   <hi>Am</hi> I prepar'd? and <hi>can</hi> I meet my doom,</l>
                <l>Nor ſhudder at the dreaded wrath to come?</l>
                <l>
-                  <pb n="172" facs="tcp:020534_0170_0FAFE5B484C4D340"/>
+                  <pb n="172" facs="unknown:020534_0170_0FAFE5B484C4D340"/>
                   <hi>Is</hi> all in order ſet, my houſe, my heart?</l>
                <l>Does no beſetting ſin ſtill claim a part?</l>
                <l>Does no one cheriſh'd vice, with ling'ring pace,</l>
@@ -6251,7 +6252,7 @@ Will liſten to your cries?"</l>
                <l>And view th' eternal world with conſtant eye?</l>
             </lg>
             <lg>
-               <pb n="173" facs="tcp:020534_0171_0FAFE5B544CDDFA8"/>
+               <pb n="173" facs="unknown:020534_0171_0FAFE5B544CDDFA8"/>
                <l>If ſo I liv'd, if ſo I kept thy word,</l>
                <l>In mercy view, in mercy hear me, LORD!</l>
                <l>My holieſt deeds <hi>indulgence</hi> will require,</l>
@@ -6282,7 +6283,7 @@ Will liſten to your cries?"</l>
                <l>That man is proud of what is not his own.</l>
             </lg>
             <lg>
-               <pb n="174" facs="tcp:020534_0172_0FAFE5B603DBB390"/>
+               <pb n="174" facs="unknown:020534_0172_0FAFE5B603DBB390"/>
                <l>How ſhort is human life! the very breath,</l>
                <l>Which frames my words, accelerates my death.</l>
                <l>Of this ſhort life how large a portion's fled!</l>
@@ -6316,7 +6317,7 @@ Will liſten to your cries?"</l>
                <l>A drop, diſſever'd from the boundleſs ſea;</l>
                <l>A moment, parted from eternity;</l>
                <l>
-                  <pb n="175" facs="tcp:020534_0173_0FAFE5B6C505B888"/>A pilgrim, panting for the reſt to come?</l>
+                  <pb n="175" facs="unknown:020534_0173_0FAFE5B6C505B888"/>A pilgrim, panting for the reſt to come?</l>
                <l>An exile, anxious for his native home.</l>
             </lg>
             <lg>
@@ -6349,7 +6350,7 @@ Will liſten to your cries?"</l>
                <l>Thou, bleſs'd Iſaiah! who, at God's command,</l>
                <l>Now ſpeak'ſt repentance to a guilty land,</l>
                <l>
-                  <pb n="176" facs="tcp:020534_0174_0FAFE5B82827A1F0"/>Muſt die! as wiſe and good thou hadſt not been,</l>
+                  <pb n="176" facs="unknown:020534_0174_0FAFE5B82827A1F0"/>Muſt die! as wiſe and good thou hadſt not been,</l>
                <l>As Nebat's ſon, who taught the land to ſin!</l>
             </lg>
             <lg>
@@ -6368,7 +6369,7 @@ Will liſten to your cries?"</l>
             <trailer>THE END.</trailer>
          </div>
          <div type="poem">
-            <pb n="177" facs="tcp:020534_0175_0FAFE5B845E96998"/>
+            <pb n="177" facs="unknown:020534_0175_0FAFE5B845E96998"/>
             <head>SENSIBILITY: A POETICAL EPISTLE TO THE HON. MRS. BOSCAWEN. <note n="*" place="bottom">This little Poem was ſeat ſeveral years ago, as an Epiſtle, to the honoured Friend to whom it is inſeribed. It has ſince been enlarged; and ſeveral paſſages have been added, or altered, as circumſtances required.</note>
             </head>
             <epigraph>
@@ -6386,7 +6387,7 @@ But to fine iſſues—</q>
                <l>You heard the lyres of LYTTLETON and YOUNG;</l>
                <l>And this a Grace, and that a Seraph ſtrung.</l>
                <l>
-                  <pb n="178" facs="tcp:020534_0176_0FAFE5B909359EC8"/>Theſe are no more! But not with theſe decline</l>
+                  <pb n="178" facs="unknown:020534_0176_0FAFE5B909359EC8"/>Theſe are no more! But not with theſe decline</l>
                <l>The Attic chaſteneſs, and the flame divine.</l>
                <l>Still, <hi>ſad</hi> 
                   <note n="*" place="bottom">M<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -6428,7 +6429,7 @@ But to fine iſſues—</q>
                <l>Tho' purer flames thy hallow'd zeal inſpire</l>
                <l>Than e'er were kindled at the Muſe's fire;</l>
                <l>
-                  <pb n="179" facs="tcp:020534_0177_0FAFE5B9C5145AA0"/>Thee, mitred <note n="*" place="bottom">
+                  <pb n="179" facs="unknown:020534_0177_0FAFE5B9C5145AA0"/>Thee, mitred <note n="*" place="bottom">
                      <hi>See the Biſhop's admirable Poem on Death.</hi>
                   </note> CHESTER! all the Nine ſhall boaſt:</l>
                <l>And is not JOHNSON theirs, himſelf an hoſt?</l>
@@ -6463,7 +6464,7 @@ But to fine iſſues—</q>
                <l>In all thy praiſe to take a gen'rous part;</l>
                <l>Thy laurels bind thee cloſer to my heart:</l>
                <l>
-                  <pb n="180" facs="tcp:020534_0178_0FAFE5BA83D6F4B8"/>My verſe thy merits to the world ſhall teach,</l>
+                  <pb n="180" facs="unknown:020534_0178_0FAFE5BA83D6F4B8"/>My verſe thy merits to the world ſhall teach,</l>
                <l>And love the genius it deſpairs to reach,</l>
             </lg>
             <lg>
@@ -6500,7 +6501,7 @@ But to fine iſſues—</q>
                <l>Whoſe partial praiſe my worthleſs verſe enſure?</l>
                <l>For Candor ſmil'd, when GARRICK wou'd endure.</l>
                <l>
-                  <pb n="181" facs="tcp:020534_0179_0FAFE5BB44087498"/>If harſher critics were compell'd to blame,</l>
+                  <pb n="181" facs="unknown:020534_0179_0FAFE5BB44087498"/>If harſher critics were compell'd to blame,</l>
                <l>I gain'd in friendſhip what I loſt in fame;</l>
                <l>And friendſhip's foſt'ring ſmiles can well repay</l>
                <l>What critic rigour juſtly takes away.</l>
@@ -6535,7 +6536,7 @@ But to fine iſſues—</q>
                   </note>, a deathleſs muſe!—</l>
                <l>But I his talents in his virtues loſe:</l>
                <l>
-                  <pb n="182" facs="tcp:020534_0180_0FAFE5BC0518FE20"/>Great parts are Nature's gift; but that he ſhone</l>
+                  <pb n="182" facs="unknown:020534_0180_0FAFE5BC0518FE20"/>Great parts are Nature's gift; but that he ſhone</l>
                <l>Wiſe, moral, good and virtuous—was his own.</l>
                <l>Tho' Time his ſilent hand acroſs has ſtole,</l>
                <l>Soft'ning the tints of ſorrow on the ſoul;</l>
@@ -6570,7 +6571,7 @@ But to fine iſſues—</q>
                <l>For it, when home-felt joys the mind elate,</l>
                <l>It mourns in ſecret for another's fate;</l>
                <l>
-                  <pb n="183" facs="tcp:020534_0181_0FAFE5BCC4CE0AA0"/>Yet when its own ſad griefs invade the breaſt,</l>
+                  <pb n="183" facs="unknown:020534_0181_0FAFE5BCC4CE0AA0"/>Yet when its own ſad griefs invade the breaſt,</l>
                <l>Abroad, in others bleſſings, ſee it bleſt!</l>
                <l>Ev'n the ſoft ſorrow of remember'd woe</l>
                <l>A not unpleaſing ſadneſs may beſtow.</l>
@@ -6605,7 +6606,7 @@ But to fine iſſues—</q>
                <l>Friendſhip, which once determin'd, never ſwerves,</l>
                <l>Weighs ere it truſts, but weighs not ere it ſerves;</l>
                <l>
-                  <pb n="184" facs="tcp:020534_0182_0FAFE5BD8404CF00"/>And ſoft-ey'd Pity, and Forgiveneſs bland,</l>
+                  <pb n="184" facs="unknown:020534_0182_0FAFE5BD8404CF00"/>And ſoft-ey'd Pity, and Forgiveneſs bland,</l>
                <l>And melting Charity with open hand;</l>
                <l>And artleſs Love, believing and believ'd,</l>
                <l>And gen'rous Confidence which ne'er deceiv'd;</l>
@@ -6646,7 +6647,7 @@ But to fine iſſues—</q>
                   </note>! no!—Thy ſong tho' ſteep'd in tears,</l>
                <l>Tho' all thy ſoul in all thy ſtrain appears;</l>
                <l>
-                  <pb n="185" facs="tcp:020534_0183_0FAFE5BE461F8140"/>Yet wou'dſt thou all thy well-ſung anguiſh chuſe,</l>
+                  <pb n="185" facs="unknown:020534_0183_0FAFE5BE461F8140"/>Yet wou'dſt thou all thy well-ſung anguiſh chuſe,</l>
                <l>And all th' inglorious peace thou begg'ſt, refuſe,</l>
             </lg>
             <lg>
@@ -6682,7 +6683,7 @@ But to fine iſſues—</q>
                <l>Stern TRUTH, firm FAITH, and manly VIRTUE fly.</l>
             </lg>
             <lg>
-               <pb n="186" facs="tcp:020534_0184_0FAFE5BF056EF208"/>
+               <pb n="186" facs="unknown:020534_0184_0FAFE5BF056EF208"/>
                <l>Sweet SENSIBILITY! thou ſoothing pow'r,</l>
                <l>Who ſhedd'ſt thy bleſſings on the natal hour.</l>
                <l>Like fairy favours! Art can never ſeize,</l>
@@ -6720,7 +6721,7 @@ But to fine iſſues—</q>
                <l>As words are but th' external marks, to tell</l>
                <l>The fair ideas in the mind that dwell;</l>
                <l>
-                  <pb n="187" facs="tcp:020534_0185_0FAFE5BFC5235690"/>And only are of things the outward ſign,</l>
+                  <pb n="187" facs="unknown:020534_0185_0FAFE5BFC5235690"/>And only are of things the outward ſign,</l>
                <l>And not the things themſelves, they but define;</l>
                <l>So exclamations, tender tones, fond tears,</l>
                <l>And all the graceful drapery Pity wears;</l>
@@ -6752,7 +6753,7 @@ But to fine iſſues—</q>
                <l>His <hi>Man of Feeling</hi> is a wan indeed.</l>
             </lg>
             <lg>
-               <pb n="188" facs="tcp:020534_0186_0FAFE5C14A0984E0"/>
+               <pb n="188" facs="unknown:020534_0186_0FAFE5C14A0984E0"/>
                <l>Oh, bleſs'd Compaſſion! Angel Charity!</l>
                <l>More dear one genuine deed perform'd for thee,</l>
                <l>Than all the periods Feeling e'er can turn,</l>
@@ -6790,7 +6791,7 @@ But to fine iſſues—</q>
                <l>A ſolitary bleſſing few can find,</l>
                <l>Our joys with thoſe we love are intertwin'd;</l>
                <l>
-                  <pb n="189" facs="tcp:020534_0187_0FAFE5C15DD94FC8"/>And he, whoſe helpful tenderneſs removes</l>
+                  <pb n="189" facs="unknown:020534_0187_0FAFE5C15DD94FC8"/>And he, whoſe helpful tenderneſs removes</l>
                <l>Th' obſtructing thorn which wounds the breaſt he loves,</l>
                <l>Smooths not another's rugged path alone,</l>
                <l>But ſcatters roſes to adorn his own.</l>
@@ -6827,7 +6828,7 @@ But to fine iſſues—</q>
                <l>Sheds its ſweet ſunſhine on the moral part,</l>
                <l>Nor waſtes on fancy what ſhou'd warm the heart.</l>
                <l>
-                  <pb n="190" facs="tcp:020534_0188_0FAFE5C20587CD50"/>Cold and inert the mental pow'rs would lie,</l>
+                  <pb n="190" facs="unknown:020534_0188_0FAFE5C20587CD50"/>Cold and inert the mental pow'rs would lie,</l>
                <l>Without this quick'ning ſpark of Deity.</l>
                <l>To draw the rich materials from the mine,</l>
                <l>To bid the maſs of intellect refine;</l>
@@ -6854,7 +6855,7 @@ But to fine iſſues—</q>
                <l>And gives BOSCAWEN half her pow'r to pleaſe.</l>
             </lg>
             <lg>
-               <pb n="191" facs="tcp:020534_0189_0FAFE5C2C41BBA30"/>
+               <pb n="191" facs="unknown:020534_0189_0FAFE5C2C41BBA30"/>
                <l>Yet, why thoſe terrors? why that anxious care,</l>
                <l>Since your laſt <note n="†" place="bottom">Viſcount Falmouth, Admiral Boſcawen's only remain<g ref="char:EOLhyphen"/>ing ſon, was then in American, and at the battle of Lex<g ref="char:EOLhyphen"/>ington.</note> hope the deathful war will dare!</l>
                <l>Why dread that energy of ſoul which leads</l>
@@ -6872,7 +6873,7 @@ But to fine iſſues—</q>
             <p>BY THE SAME AUTHOR, A SEARCH AFTER HAPPINESS, A DRAMATIC POEM. PRICE TWO SHILINGS.</p>
          </div>
          <div type="publishers_advertisement">
-            <pb facs="tcp:020534_0190_0FAFE5C384D6C118"/>
+            <pb facs="unknown:020534_0190_0FAFE5C384D6C118"/>
             <head>
                <hi>Juſt Publiſhed,</hi> AND TO BE SOLD, BY THOMAS DOBSON, BOOKSELLER AND STATIONER, in SECOND-STREET, between MARKET and CHESNUT<g ref="char:EOLhyphen"/>STREETS.</head>
             <list>
